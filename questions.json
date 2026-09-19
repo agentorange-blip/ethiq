@@ -1,0 +1,2114 @@
+{
+  "SELF": [
+    {
+      "situation": "You discover that your teacher accidentally gave you a higher grade than you earned. ●",
+      "question": "Would you tell your teacher even if your grade might decrease? ●",
+      "tagalog": "Sasabihin mo ba sa iyong guro kahit maaaring bumaba ang iyong marka? ●",
+      "inspirational": "Honesty can be difficult, but integrity begins when we choose truth over personal advantage. ●",
+      "mensahe": "Maaaring mahirap ang katapatan, ngunit nagsisimula ang integridad kapag pinili natin ang katotohanan kaysa sariling pakinabang. . ●"
+    },
+    {
+      "situation": "You made a mistake in an important project, but nobody noticed. ●",
+      "question": "Would you admit your mistake or stay silent? ●",
+      "tagalog": "Aaminin mo ba ang iyong pagkakamali o mananahimik ka? ●",
+      "inspirational": "Taking responsibility for mistakes is a step toward becoming wiser and stronger. ●",
+      "mensahe": "Ang pag-ako sa pagkakamali ay hakbang tungo sa pagiging mas matalino at matatag. . ●"
+    },
+    {
+      "situation": "You are given a chance to cheat on an exam without being caught. ●",
+      "question": "Would you cheat if it could guarantee a higher grade? ●",
+      "tagalog": "Mandadaya ka ba kung siguradong tataas ang iyong marka? ●",
+      "inspirational": "Character is revealed by what we choose when nobody is watching. ●",
+      "mensahe": "Nakikita ang ating pagkatao sa mga pagpiling ginagawa natin kapag walang nakakakita. . ●"
+    },
+    {
+      "situation": "You promised yourself to study, but your friends invite you to play. ●",
+      "question": "Would you keep your commitment to yourself? ●",
+      "tagalog": "Tutuparin mo ba ang pangako mo sa iyong sarili? ●",
+      "inspirational": "Self-discipline turns intentions into meaningful progress. ●",
+      "mensahe": "Ang disiplina sa sarili ang tumutulong gawing tunay na progreso ang ating mga layunin. . ●"
+    },
+    {
+      "situation": "You receive credit for work that another person actually completed. ●",
+      "question": "Would you give the credit to the person who earned it? ●",
+      "tagalog": "Ibibigay mo ba ang kredito sa taong tunay na gumawa nito? ●",
+      "inspirational": "Success means more when it is earned honestly. ●",
+      "mensahe": "Mas makabuluhan ang tagumpay kapag ito ay nakamit nang tapat. . ●"
+    },
+    {
+      "situation": "You realize that your behavior has been hurting someone unintentionally. ●",
+      "question": "Would you change your behavior after learning about its impact? ●",
+      "tagalog": "Babaguhin mo ba ang iyong kilos matapos mong malaman ang epekto nito? ●",
+      "inspirational": "Growth begins when we are willing to recognize our impact on others. ●",
+      "mensahe": "Nagsisimula ang paglago kapag handa nating kilalanin ang epekto ng ating kilos sa iba. . ●"
+    },
+    {
+      "situation": "You fail at something important after working hard. ●",
+      "question": "Would you blame others or reflect on what you can improve? ●",
+      "tagalog": "Sisisihin mo ba ang iba o pag-iisipan kung ano ang maaari mong pagbutihin? ●",
+      "inspirational": "Failure can become a lesson when we face it with honesty. ●",
+      "mensahe": "Nagiging aral ang kabiguan kapag hinaharap natin ito nang tapat. . ●"
+    },
+    {
+      "situation": "Your friends pressure you to do something against your values. ●",
+      "question": "Would you stand by your values even if you were left out? ●",
+      "tagalog": "Paninindigan mo ba ang iyong mga pagpapahalaga kahit maiwan ka? ●",
+      "inspirational": "Your values matter most when they are tested. ●",
+      "mensahe": "Mas nagiging mahalaga ang iyong mga pagpapahalaga kapag sinusubok ang mga ito. . ●"
+    },
+    {
+      "situation": "You promised to complete an assignment but suddenly lose motivation. ●",
+      "question": "Would you still finish what you promised? ●",
+      "tagalog": "Tatapusin mo pa rin ba ang ipinangako mong gawin? ●",
+      "inspirational": "Responsibility means keeping commitments even when motivation fades. ●",
+      "mensahe": "Ang responsibilidad ay pagtupad sa pangako kahit nawawala ang gana. . ●"
+    },
+    {
+      "situation": "You know the right decision will be difficult. ●",
+      "question": "Would you choose the difficult right choice over the easy wrong one? ●",
+      "tagalog": "Pipiliin mo ba ang mahirap na tama kaysa madaling mali? ●",
+      "inspirational": "Courage is choosing what you can stand behind later. ●",
+      "mensahe": "Ang tapang ay ang pagpili ng desisyong kaya mong panindigan sa hinaharap. . ●"
+    },
+    {
+      "situation": "You find money in an empty classroom. ●",
+      "question": "Would you return it even if nobody knew you found it? ●",
+      "tagalog": "Isasauli mo ba ito kahit walang makakaalam na nakita mo ito? ●",
+      "inspirational": "Integrity exists even when there is no audience. ●",
+      "mensahe": "Umiiral ang integridad kahit walang nakakakita. . ●"
+    },
+    {
+      "situation": "You accidentally damage someone else's property. ●",
+      "question": "Would you admit what happened? ●",
+      "tagalog": "Aaminin mo ba ang nangyari? ●",
+      "inspirational": "Owning our actions gives us the chance to make things right. ●",
+      "mensahe": "Ang pag-ako sa ating ginawa ay nagbibigay ng pagkakataong itama ito. . ●"
+    },
+    {
+      "situation": "You are afraid that admitting the truth will disappoint people. ●",
+      "question": "Would you still be honest? ●",
+      "tagalog": "Magiging tapat ka pa rin ba? ●",
+      "inspirational": "Honesty may disappoint others temporarily, but deception can damage trust. ●",
+      "mensahe": "Maaaring makabigo pansamantala ang katapatan, ngunit maaaring masira ng panlilinlang ang tiwala. . ●"
+    },
+    {
+      "situation": "You are exhausted but still have responsibilities to complete. ●",
+      "question": "Would you ask for reasonable help instead of abandoning your responsibility? ●",
+      "tagalog": "Hihingi ka ba ng makatuwirang tulong sa halip na talikuran ang iyong responsibilidad? ●",
+      "inspirational": "Knowing when to ask for help is part of responsible self-care. ●",
+      "mensahe": "Ang pag-alam kung kailan hihingi ng tulong ay bahagi ng responsableng pag-aalaga sa sarili. . ●"
+    },
+    {
+      "situation": "You compare yourself constantly with successful classmates. ●",
+      "question": "Would you focus on your own progress instead? ●",
+      "tagalog": "Magtutuon ka ba sa sarili mong progreso? ●",
+      "inspirational": "Your journey does not need to look like someone else's. ●",
+      "mensahe": "Hindi kailangang maging katulad ng iba ang iyong paglalakbay. . ●"
+    },
+    {
+      "situation": "You are offered an opportunity because of a connection rather than your qualifications. ●",
+      "question": "Would you accept it without considering fairness? ●",
+      "tagalog": "Tatanggapin mo ba ito nang hindi iniisip ang pagiging patas? ●",
+      "inspirational": "Opportunities carry greater meaning when they are handled with fairness. ●",
+      "mensahe": "Mas makabuluhan ang mga oportunidad kapag hinaharap ang mga ito nang patas. . ●"
+    },
+    {
+      "situation": "You realize you have been avoiding an important responsibility. ●",
+      "question": "Would you face it instead of continuing to make excuses? ●",
+      "tagalog": "Haharapin mo ba ito sa halip na patuloy na gumawa ng dahilan? ●",
+      "inspirational": "Responsibility begins when excuses end. ●",
+      "mensahe": "Nagsisimula ang responsibilidad kapag natatapos ang mga dahilan. . ●"
+    },
+    {
+      "situation": "You make a promise to improve yourself. ●",
+      "question": "Would you take consistent steps toward that promise? ●",
+      "tagalog": "Gagawa ka ba ng tuloy-tuloy na hakbang para matupad ang pangakong iyon? ●",
+      "inspirational": "Change is built through small choices repeated consistently. ●",
+      "mensahe": "Nabubuo ang pagbabago sa maliliit na pagpiling paulit-ulit na ginagawa. . ●"
+    },
+    {
+      "situation": "You know you are wrong during an argument. ●",
+      "question": "Would you admit that you are wrong? ●",
+      "tagalog": "Aaminin mo ba na mali ka? ●",
+      "inspirational": "Admitting a mistake requires more strength than pretending to be right. ●",
+      "mensahe": "Mas malaking lakas ang kailangan sa pag-amin ng pagkakamali kaysa sa pagpapanggap na tama. . ●"
+    },
+    {
+      "situation": "You are tempted to break a rule because everyone else does. ●",
+      "question": "Would you follow the crowd or make your own decision? ●",
+      "tagalog": "Susunod ka ba sa karamihan o gagawa ng sarili mong desisyon? ●",
+      "inspirational": "Popular choices are not automatically ethical choices. ●",
+      "mensahe": "Hindi awtomatikong tama ang isang bagay dahil ginagawa ito ng marami. . ●"
+    },
+    {
+      "situation": "You promised to keep improving your study habits. ●",
+      "question": "Would you remain committed even after a disappointing result? ●",
+      "tagalog": "Mananatili ka bang determinado kahit hindi maganda ang resulta? ●",
+      "inspirational": "Progress is measured not only by results but by persistence. ●",
+      "mensahe": "Ang progreso ay hindi lamang nasusukat sa resulta kundi sa pagpupursige. . ●"
+    },
+    {
+      "situation": "You discover that a belief you have held for years may be wrong. ●",
+      "question": "Would you be willing to reconsider your belief? ●",
+      "tagalog": "Handa ka bang muling suriin ang iyong paniniwala? ●",
+      "inspirational": "Learning requires the courage to question what we already believe. ●",
+      "mensahe": "Ang pagkatuto ay nangangailangan ng tapang na kuwestiyunin ang dati nating paniniwala. . ●"
+    },
+    {
+      "situation": "You are angry and want to say something hurtful. ●",
+      "question": "Would you pause before speaking? ●",
+      "tagalog": "Hihinto ka ba muna bago magsalita? ●",
+      "inspirational": "Self-control allows emotions to be felt without allowing them to control our actions. ●",
+      "mensahe": "Tinutulungan tayo ng pagpipigil sa sarili na maramdaman ang emosyon nang hindi ito hinahayaang kontrolin ang ating kilos. . ●"
+    },
+    {
+      "situation": "You receive criticism about something you worked hard on. ●",
+      "question": "Would you listen before becoming defensive? ●",
+      "tagalog": "Makikinig ka ba bago maging depensibo? ●",
+      "inspirational": "Constructive criticism can become a doorway to growth. ●",
+      "mensahe": "Ang makabuluhang puna ay maaaring maging daan tungo sa paglago. . ●"
+    },
+    {
+      "situation": "You know you need rest, but you feel guilty for taking a break. ●",
+      "question": "Would you allow yourself reasonable time to recover? ●",
+      "tagalog": "Papayagan mo ba ang sarili mong magpahinga nang sapat? ●",
+      "inspirational": "Rest can be part of responsibility, not the opposite of it. ●",
+      "mensahe": "Ang pahinga ay maaaring bahagi ng responsibilidad, hindi kabaligtaran nito. . ●"
+    },
+    {
+      "situation": "You are asked to do something you strongly disagree with. ●",
+      "question": "Would you respectfully explain your concerns? ●",
+      "tagalog": "Ipapaalam mo ba nang maayos ang iyong mga alalahanin? ●",
+      "inspirational": "Respectful disagreement allows us to protect our principles without disrespecting others. ●",
+      "mensahe": "Ang maayos na hindi pagsang-ayon ay nagbibigay-daan upang panindigan ang prinsipyo nang may respeto. . ●"
+    },
+    {
+      "situation": "You discover that your own actions caused a conflict. ●",
+      "question": "Would you take the first step toward resolving it? ●",
+      "tagalog": "Ikaw ba ang unang gagawa ng hakbang upang ayusin ito? ●",
+      "inspirational": "Taking responsibility can be the beginning of reconciliation. ●",
+      "mensahe": "Ang pag-ako sa responsibilidad ay maaaring maging simula ng pagkakasundo. . ●"
+    },
+    {
+      "situation": "You can choose between immediate pleasure and a long-term goal. ●",
+      "question": "Which responsibility would you prioritize? ●",
+      "tagalog": "Aling responsibilidad ang bibigyan mo ng prayoridad? ●",
+      "inspirational": "Wise choices consider both the present and the future. ●",
+      "mensahe": "Isinasaalang-alang ng matalinong pagpili ang kasalukuyan at hinaharap. . ●"
+    },
+    {
+      "situation": "You are embarrassed by a mistake you made in public. ●",
+      "question": "Would you learn from it instead of letting embarrassment define you? ●",
+      "tagalog": "Matututo ka ba rito sa halip na hayaang kontrolin ka ng kahihiyan? ●",
+      "inspirational": "A mistake is an event, not the complete definition of who you are. ●",
+      "mensahe": "Ang pagkakamali ay isang pangyayari, hindi buong kahulugan ng iyong pagkatao. . ●"
+    },
+    {
+      "situation": "You realize that you judged someone unfairly. ●",
+      "question": "Would you reconsider your judgment? ●",
+      "tagalog": "Muli mo bang pag-iisipan ang iyong naging paghuhusga? ●",
+      "inspirational": "Humility allows us to correct our understanding. ●",
+      "mensahe": "Tinutulungan tayo ng pagpapakumbaba na itama ang ating pag-unawa. . ●"
+    },
+    {
+      "situation": "You are given responsibility over something valuable. ●",
+      "question": "Would you care for it even when nobody checks your work? ●",
+      "tagalog": "Aalagaan mo ba ito kahit walang sumusuri sa iyong ginagawa? ●",
+      "inspirational": "Responsibility is measured by consistency, not supervision. ●",
+      "mensahe": "Nasusukat ang responsibilidad sa pagiging consistent, hindi sa dami ng nagbabantay. . ●"
+    },
+    {
+      "situation": "You are tempted to exaggerate your achievements. ●",
+      "question": "Would you present yourself honestly? ●",
+      "tagalog": "Ipapakita mo ba ang iyong sarili nang tapat? ●",
+      "inspirational": "Authenticity is more sustainable than an image built on exaggeration. ●",
+      "mensahe": "Mas matibay ang pagiging tunay kaysa imaheng nakabatay sa pagmamalabis. . ●"
+    },
+    {
+      "situation": "Someone gives you advice that you do not want to hear. ●",
+      "question": "Would you consider whether their advice has value? ●",
+      "tagalog": "Isasaalang-alang mo ba kung may halaga ang kanilang payo? ●",
+      "inspirational": "Wisdom sometimes comes from words we initially resist. ●",
+      "mensahe": "Minsan nagmumula ang karunungan sa mga salitang una nating tinatanggihan. . ●"
+    },
+    {
+      "situation": "You have an opportunity to improve but it requires leaving your comfort zone. ●",
+      "question": "Would you take the opportunity despite your fear? ●",
+      "tagalog": "Tatanggapin mo ba ang oportunidad kahit natatakot ka? ●",
+      "inspirational": "Growth often begins where comfort ends. ●",
+      "mensahe": "Madalas nagsisimula ang paglago kung saan nagtatapos ang kaginhawaan. . ●"
+    },
+    {
+      "situation": "You realize you have been treating yourself harshly for past mistakes. ●",
+      "question": "Would you learn from the past without allowing it to define your future? ●",
+      "tagalog": "Matututo ka ba mula sa nakaraan nang hindi ito hinahayaang tukuyin ang iyong hinaharap? ●",
+      "inspirational": "Accountability and self-compassion can exist together. ●",
+      "mensahe": "Maaaring magsama ang pananagutan at malasakit sa sarili. . ●"
+    },
+    {
+      "situation": "You are tempted to give up after repeated failures. ●",
+      "question": "Would you try again or change your approach? ●",
+      "tagalog": "Susubukan mo ba muli o babaguhin ang iyong paraan? ●",
+      "inspirational": "Persistence does not always mean repeating the same path; sometimes it means finding a better one. ●",
+      "mensahe": "Ang pagpupursige ay hindi laging nangangahulugang ulitin ang parehong paraan; minsan kailangan nitong humanap ng mas mabuting daan. . ●"
+    },
+    {
+      "situation": "You promised to improve your attitude toward others. ●",
+      "question": "Would you hold yourself accountable when you fall back into old habits? ●",
+      "tagalog": "Pananagutan mo ba ang iyong sarili kapag bumalik ka sa dating gawi? ●",
+      "inspirational": "Real change requires patience, honesty, and consistency. ●",
+      "mensahe": "Ang tunay na pagbabago ay nangangailangan ng tiyaga, katapatan, at consistency. . ●"
+    },
+    {
+      "situation": "You are given an advantage that others do not have. ●",
+      "question": "Would you consider how to use that advantage responsibly? ●",
+      "tagalog": "Isasaalang-alang mo ba kung paano gamitin nang responsable ang iyong kalamangan? ●",
+      "inspirational": "Having an advantage also brings responsibility. ●",
+      "mensahe": "Ang pagkakaroon ng kalamangan ay may kaakibat ding responsibilidad. . ●"
+    },
+    {
+      "situation": "You notice that your words often affect people negatively. ●",
+      "question": "Would you change the way you communicate? ●",
+      "tagalog": "Babaguhin mo ba ang paraan ng iyong pakikipag-usap? ●",
+      "inspirational": "Good communication considers not only what we mean but how our words affect others. ●",
+      "mensahe": "Ang mabuting komunikasyon ay hindi lamang tungkol sa intensyon kundi pati sa epekto ng ating mga salita. . ●"
+    },
+    {
+      "situation": "You are unsure whether your decision is ethical. ●",
+      "question": "Would you seek advice before acting? ●",
+      "tagalog": "Hihingi ka ba ng payo bago kumilos? ●",
+      "inspirational": "Seeking guidance can be a sign of wisdom rather than weakness. ●",
+      "mensahe": "Ang paghingi ng gabay ay maaaring tanda ng karunungan, hindi kahinaan. . ●"
+    },
+    {
+      "situation": "You promised to be honest with yourself about your weaknesses. ●",
+      "question": "Would you acknowledge them instead of hiding them? ●",
+      "tagalog": "Aaminin mo ba ang iyong mga kahinaan sa halip na itago ang mga ito? ●",
+      "inspirational": "Knowing our weaknesses helps us understand where growth can begin. ●",
+      "mensahe": "Ang pagkilala sa ating kahinaan ay tumutulong upang malaman kung saan maaaring magsimula ang paglago. . ●"
+    },
+    {
+      "situation": "You are tempted to judge someone based on one mistake. ●",
+      "question": "Would you consider the whole person before judging? ●",
+      "tagalog": "Isasaalang-alang mo ba ang buong pagkatao bago humusga? ●",
+      "inspirational": "One moment rarely tells the whole story of a person. ●",
+      "mensahe": "Bihirang sabihin ng isang pangyayari ang buong kuwento ng isang tao. . ●"
+    },
+    {
+      "situation": "You are responsible for a task but nobody reminds you about it. ●",
+      "question": "Would you complete it without being reminded? ●",
+      "tagalog": "Tatapusin mo ba ito kahit walang nagpapaalala? ●",
+      "inspirational": "Responsibility means doing what is expected even without constant reminders. ●",
+      "mensahe": "Ang responsibilidad ay paggawa ng dapat gawin kahit walang palaging nagpapaalala. . ●"
+    },
+    {
+      "situation": "You are offered an easy shortcut that violates your principles. ●",
+      "question": "Would you reject the shortcut? ●",
+      "tagalog": "Tatanggihan mo ba ang shortcut? ●",
+      "inspirational": "Shortcuts can save time, but principles shape character. ●",
+      "mensahe": "Maaaring makatipid ng oras ang shortcut, ngunit ang prinsipyo ang humuhubog sa pagkatao. . ●"
+    },
+    {
+      "situation": "You realize that your goals were chosen mainly to impress others. ●",
+      "question": "Would you reconsider what you truly want? ●",
+      "tagalog": "Muli mo bang pag-iisipan kung ano talaga ang gusto mo? ●",
+      "inspirational": "A meaningful life includes goals that reflect your own values. ●",
+      "mensahe": "Kasama sa makabuluhang buhay ang mga layuning naaayon sa sarili mong pagpapahalaga. . ●"
+    },
+    {
+      "situation": "You are praised for something you know you did not do alone. ●",
+      "question": "Would you acknowledge the people who helped you? ●",
+      "tagalog": "Kinikilala mo ba ang mga taong tumulong sa iyo? ●",
+      "inspirational": "Gratitude gives proper value to the people behind our achievements. ●",
+      "mensahe": "Binibigyan ng pasasalamat ng tamang halaga ang mga taong nasa likod ng ating tagumpay. . ●"
+    },
+    {
+      "situation": "You realize you have broken a personal promise several times. ●",
+      "question": "Would you honestly examine why you keep breaking it? ●",
+      "tagalog": "Tapat mo bang susuriin kung bakit patuloy mong nilalabag ang pangako? ●",
+      "inspirational": "Honest self-reflection can reveal what needs to change. ●",
+      "mensahe": "Maaaring ipakita ng tapat na pagsusuri sa sarili kung ano ang kailangang baguhin. . ●"
+    },
+    {
+      "situation": "You are afraid to apologize because you might look weak. ●",
+      "question": "Would you apologize if you know you were wrong? ●",
+      "tagalog": "Hihingi ka ba ng tawad kung alam mong mali ka? ●",
+      "inspirational": "An apology can be an act of courage and accountability. ●",
+      "mensahe": "Ang paghingi ng tawad ay maaaring tanda ng tapang at pananagutan. . ●"
+    },
+    {
+      "situation": "You must choose between protecting your image and telling the truth. ●",
+      "question": "Which would you value more? ●",
+      "tagalog": "Alin ang mas bibigyan mo ng halaga? ●",
+      "inspirational": "Reputation can change, but integrity becomes part of who we are. ●",
+      "mensahe": "Maaaring magbago ang reputasyon, ngunit nagiging bahagi ng ating pagkatao ang integridad. . ●"
+    },
+    {
+      "situation": "You have the opportunity to become better, but nobody is forcing you to change. ●",
+      "question": "Would you choose to grow anyway? ●",
+      "tagalog": "Pipiliin mo pa rin bang umunlad? ●",
+      "inspirational": "Personal growth begins when we choose it for ourselves. ●",
+      "mensahe": "Nagsisimula ang personal na paglago kapag pinili natin ito para sa ating sarili."
+    }
+  ],
+  "RELATIONSHIPS": [
+    {
+      "situation": "Your friend asks you to lie to protect them from a teacher.",
+      "question": "Would you lie for your friend or tell the truth?",
+      "tagalog": "Magsisinungaling ka ba para sa iyong kaibigan o magsasabi ng totoo?",
+      "inspirational": "Friendship is meaningful when honesty and care can exist together.",
+      "mensahe": "Nagiging makabuluhan ang pagkakaibigan kapag nagsasama ang katapatan at malasakit. ."
+    },
+    {
+      "situation": "Your friend shares a private secret with you.",
+      "question": "Would you keep the secret when another friend asks about it?",
+      "tagalog": "Itatago mo ba ang sikreto kapag tinanong ka ng ibang kaibigan?",
+      "inspirational": "Trust grows when we respect what others share with us.",
+      "mensahe": "Lumalago ang tiwala kapag iginagalang natin ang mga bagay na ibinabahagi sa atin. ."
+    },
+    {
+      "situation": "Your friend is cheating in an important school activity.",
+      "question": "Would you confront them even if they become angry?",
+      "tagalog": "Kakausapin mo ba sila kahit magalit sila?",
+      "inspirational": "Caring for a friend can include telling difficult truths.",
+      "mensahe": "Ang pagmamalasakit sa kaibigan ay maaaring mangahulugan ng pagsasabi ng mahirap na katotohanan. ."
+    },
+    {
+      "situation": "Your friend asks for your honest opinion, but the truth may hurt.",
+      "question": "Would you tell the truth carefully?",
+      "tagalog": "Sasabihin mo ba ang totoo nang may pag-iingat?",
+      "inspirational": "Honesty and kindness can work together.",
+      "mensahe": "Maaaring magsama ang katapatan at kabaitan. ."
+    },
+    {
+      "situation": "Your friend apologizes after breaking your trust.",
+      "question": "Would you give them another chance?",
+      "tagalog": "Bibigyan mo ba sila ng isa pang pagkakataon?",
+      "inspirational": "Forgiveness and trust are related, but they do not always return at the same speed.",
+      "mensahe": "Magkaugnay ang pagpapatawad at tiwala, ngunit hindi sila laging bumabalik sa parehong bilis. ."
+    },
+    {
+      "situation": "Your family needs help while your friends invite you out.",
+      "question": "How would you balance your responsibilities?",
+      "tagalog": "Paano mo babalansehin ang iyong mga responsibilidad?",
+      "inspirational": "Relationships require time, understanding, and responsibility.",
+      "mensahe": "Ang relasyon ay nangangailangan ng oras, pag-unawa, at responsibilidad. ."
+    },
+    {
+      "situation": "A friend is being excluded from your group.",
+      "question": "Would you speak up for them?",
+      "tagalog": "Magsasalita ka ba para sa kanila?",
+      "inspirational": "Inclusion begins when someone chooses not to remain silent.",
+      "mensahe": "Nagsisimula ang pagiging inklusibo kapag may taong piniling hindi manahimik. ."
+    },
+    {
+      "situation": "Your friend receives a higher grade than you.",
+      "question": "Would you genuinely congratulate them?",
+      "tagalog": "Taos-puso mo ba silang babatiin?",
+      "inspirational": "Another person's success does not diminish your own journey.",
+      "mensahe": "Hindi binabawasan ng tagumpay ng iba ang halaga ng iyong sariling paglalakbay. ."
+    },
+    {
+      "situation": "Your friend is struggling financially and asks for help you can reasonably give.",
+      "question": "Would you help without making them feel ashamed?",
+      "tagalog": "Tutulong ka ba nang hindi sila pinapahiya?",
+      "inspirational": "True kindness protects another person's dignity.",
+      "mensahe": "Pinoprotektahan ng tunay na kabaitan ang dignidad ng ibang tao. ."
+    },
+    {
+      "situation": "Your friend repeatedly cancels plans without explanation.",
+      "question": "Would you communicate your feelings instead of immediately ending the friendship?",
+      "tagalog": "Sasabihin mo ba ang iyong nararamdaman sa halip na agad tapusin ang pagkakaibigan?",
+      "inspirational": "Honest communication can prevent assumptions from damaging relationships.",
+      "mensahe": "Maaaring maiwasan ng tapat na komunikasyon ang pagkasira ng relasyon dahil sa maling akala. ."
+    },
+    {
+      "situation": "Your friend is being criticized unfairly.",
+      "question": "Would you defend them respectfully?",
+      "tagalog": "Ipaglalaban mo ba sila nang may respeto?",
+      "inspirational": "Loyalty can mean standing beside someone while still respecting the truth.",
+      "mensahe": "Ang katapatan ay maaaring mangahulugan ng pagsama sa isang tao habang iginagalang pa rin ang katotohanan. ."
+    },
+    {
+      "situation": "A friend asks you to copy your homework.",
+      "question": "Would you help them without helping them cheat?",
+      "tagalog": "Tutulungan mo ba sila nang hindi sila tinutulungang mandaya?",
+      "inspirational": "Helping someone learn is different from helping them avoid responsibility.",
+      "mensahe": "Iba ang pagtulong sa pagkatuto sa pagtulong upang makaiwas sa responsibilidad. ."
+    },
+    {
+      "situation": "Your friend tells you they are being treated unfairly.",
+      "question": "Would you respect their privacy while helping them find support?",
+      "tagalog": "Igalang mo ba ang kanilang privacy habang tinutulungan silang makahanap ng suporta?",
+      "inspirational": "Support should respect both dignity and personal boundaries.",
+      "mensahe": "Dapat igalang ng suporta ang dignidad at personal na hangganan. ."
+    },
+    {
+      "situation": "Your friend wants you to hide a serious mistake.",
+      "question": "Would you encourage them to take responsibility?",
+      "tagalog": "Hihikayatin mo ba silang panagutan ang kanilang ginawa?",
+      "inspirational": "Good friendship does not require us to protect harmful choices.",
+      "mensahe": "Hindi hinihingi ng tunay na pagkakaibigan na protektahan natin ang maling desisyon. ."
+    },
+    {
+      "situation": "You accidentally reveal your friend's secret.",
+      "question": "Would you admit what you did and apologize?",
+      "tagalog": "Aaminin mo ba ang ginawa mo at hihingi ng tawad?",
+      "inspirational": "Trust can begin healing when mistakes are honestly acknowledged.",
+      "mensahe": "Maaaring magsimulang gumaling ang tiwala kapag tapat na inaamin ang pagkakamali. ."
+    },
+    {
+      "situation": "Your friend asks you to choose between them and another friend.",
+      "question": "Would you refuse to take sides without understanding the situation?",
+      "tagalog": "Tatanggi ka bang kumampi nang hindi muna nauunawaan ang sitwasyon?",
+      "inspirational": "Healthy relationships leave room for understanding rather than unnecessary division.",
+      "mensahe": "Nag-iiwan ng puwang para sa pag-unawa ang malusog na relasyon sa halip na hindi kailangang pagkakampi-kampi. ."
+    },
+    {
+      "situation": "Someone apologizes but continues repeating the same behavior.",
+      "question": "Would you set a boundary?",
+      "tagalog": "Maglalagay ka ba ng hangganan?",
+      "inspirational": "Forgiveness does not require ignoring repeated harm.",
+      "mensahe": "Hindi nangangahulugan ang pagpapatawad na dapat balewalain ang paulit-ulit na pananakit. ."
+    },
+    {
+      "situation": "Your family disagrees with an important decision you want to make.",
+      "question": "Would you listen to their concerns before deciding?",
+      "tagalog": "Pakikinggan mo ba ang kanilang mga alalahanin bago magdesisyon?",
+      "inspirational": "Respect does not require agreement, but it allows honest conversation.",
+      "mensahe": "Hindi kailangang sumang-ayon upang magpakita ng respeto, ngunit kailangan ang tapat na pag-uusap. ."
+    },
+    {
+      "situation": "Your friend is jealous of your success.",
+      "question": "Would you respond with understanding instead of mocking them?",
+      "tagalog": "Tutugon ka ba nang may pag-unawa sa halip na pagtawanan sila?",
+      "inspirational": "Compassion can protect relationships during difficult emotions.",
+      "mensahe": "Maaaring maprotektahan ng malasakit ang relasyon sa panahon ng mahirap na emosyon. ."
+    },
+    {
+      "situation": "Your friend makes a joke that hurts another person.",
+      "question": "Would you tell them that the joke was inappropriate?",
+      "tagalog": "Sasabihin mo ba na hindi angkop ang biro?",
+      "inspirational": "Friendship can include helping each other recognize harmful behavior.",
+      "mensahe": "Kasama sa pagkakaibigan ang pagtulong sa isa't isa na makita ang nakasasamang kilos. ."
+    },
+    {
+      "situation": "Your partner asks to read your private messages.",
+      "question": "Would you discuss privacy and trust instead of simply giving access?",
+      "tagalog": "Pag-uusapan mo ba ang privacy at tiwala sa halip na basta ibigay ang access?",
+      "inspirational": "Trust grows through communication, not unnecessary control.",
+      "mensahe": "Lumalago ang tiwala sa komunikasyon, hindi sa hindi kailangang pagkontrol. ."
+    },
+    {
+      "situation": "You discover your friend has been talking about you behind your back.",
+      "question": "Would you talk to them directly before judging the situation?",
+      "tagalog": "Kakausapin mo ba sila nang direkta bago humusga?",
+      "inspirational": "Direct communication can prevent rumors from becoming permanent damage.",
+      "mensahe": "Maaaring maiwasan ng direktang komunikasyon ang paglala ng problema dahil sa tsismis. ."
+    },
+    {
+      "situation": "Your friend asks for advice but ignores it repeatedly.",
+      "question": "Would you continue helping while respecting their right to decide?",
+      "tagalog": "Patuloy ka bang tutulong habang iginagalang ang karapatan nilang magdesisyon?",
+      "inspirational": "Supporting someone does not mean controlling their choices.",
+      "mensahe": "Ang pagsuporta sa isang tao ay hindi nangangahulugang kontrolin ang kanilang mga desisyon. ."
+    },
+    {
+      "situation": "A friend is going through a difficult time but does not want everyone to know.",
+      "question": "Would you support them privately?",
+      "tagalog": "Susuportahan mo ba sila nang pribado?",
+      "inspirational": "Sometimes the greatest support is quiet, respectful presence.",
+      "mensahe": "Minsan ang pinakamalaking suporta ay tahimik at may respeto na presensya. ."
+    },
+    {
+      "situation": "Your friend wants to end a relationship you think is good for them.",
+      "question": "Would you respect their decision even if you disagree?",
+      "tagalog": "Igalang mo ba ang desisyon nila kahit hindi ka sang-ayon?",
+      "inspirational": "Caring for someone includes respecting their ability to make personal decisions.",
+      "mensahe": "Kasama sa pagmamalasakit ang paggalang sa kakayahan ng iba na gumawa ng sariling desisyon. ."
+    },
+    {
+      "situation": "Your friend makes a serious accusation against someone.",
+      "question": "Would you listen without immediately spreading the accusation?",
+      "tagalog": "Makikinig ka ba nang hindi agad ipinapakalat ang paratang?",
+      "inspirational": "Listening is different from spreading information you have not verified.",
+      "mensahe": "Iba ang pakikinig sa pagpapakalat ng impormasyong hindi pa napatutunayan. ."
+    },
+    {
+      "situation": "Your friend asks you to keep a secret that may put someone in danger.",
+      "question": "Would you seek responsible help?",
+      "tagalog": "Hihingi ka ba ng responsableng tulong?",
+      "inspirational": "Protecting someone's safety can require breaking ordinary expectations of secrecy.",
+      "mensahe": "Ang pagprotekta sa kaligtasan ng isang tao ay maaaring mangailangan ng paghingi ng tulong. ."
+    },
+    {
+      "situation": "You realize you have been taking a friend for granted.",
+      "question": "Would you acknowledge it and change your behavior?",
+      "tagalog": "Aaminin mo ba ito at babaguhin ang iyong kilos?",
+      "inspirational": "Appreciation becomes meaningful when it is shown through action.",
+      "mensahe": "Nagiging makabuluhan ang pagpapahalaga kapag ipinapakita ito sa gawa. ."
+    },
+    {
+      "situation": "Your friend needs help while you have your own responsibilities.",
+      "question": "Would you find a reasonable way to help without abandoning your responsibilities?",
+      "tagalog": "Hahanap ka ba ng paraan upang tumulong nang hindi iniiwan ang iyong responsibilidad?",
+      "inspirational": "Caring for others and caring for yourself can both matter.",
+      "mensahe": "Parehong mahalaga ang pag-aalaga sa iba at sa sarili. ."
+    },
+    {
+      "situation": "Your sibling breaks something and asks you to take the blame.",
+      "question": "Would you accept responsibility for something you did not do?",
+      "tagalog": "Aakuin mo ba ang kasalanang hindi mo ginawa?",
+      "inspirational": "Love does not always mean protecting someone from every consequence.",
+      "mensahe": "Hindi laging nangangahulugan ang pagmamahal na protektahan ang isang tao sa bawat kahihinatnan. ."
+    },
+    {
+      "situation": "Your friend receives unfair criticism because of a misunderstanding.",
+      "question": "Would you explain what you know to help clarify the situation?",
+      "tagalog": "Ipapaalam mo ba ang iyong nalalaman upang linawin ang sitwasyon?",
+      "inspirational": "Speaking carefully can help restore fairness.",
+      "mensahe": "Ang maingat na pagsasalita ay maaaring makatulong upang maibalik ang pagiging patas. ."
+    },
+    {
+      "situation": "A friend shares a private photo with you.",
+      "question": "Would you keep it private even if others ask to see it?",
+      "tagalog": "Pananatiliin mo ba itong pribado kahit hingin ito ng iba?",
+      "inspirational": "Privacy is a responsibility when someone trusts you with personal information.",
+      "mensahe": "Ang privacy ay responsibilidad kapag may taong nagtiwala sa iyo ng personal na impormasyon. ."
+    },
+    {
+      "situation": "Your friend is excluded because of a personal characteristic.",
+      "question": "Would you speak up against the exclusion?",
+      "tagalog": "Magsasalita ka ba laban sa hindi makatarungang pagbubukod?",
+      "inspirational": "Respect means recognizing everyone's dignity.",
+      "mensahe": "Ang respeto ay pagkilala sa dignidad ng bawat tao. ."
+    },
+    {
+      "situation": "You disagree strongly with a friend about an important issue.",
+      "question": "Can you disagree without insulting them?",
+      "tagalog": "Kaya mo bang hindi sumang-ayon nang hindi sila iniinsulto?",
+      "inspirational": "Disagreement does not have to destroy respect.",
+      "mensahe": "Hindi kailangang sirain ng hindi pagkakasundo ang respeto. ."
+    },
+    {
+      "situation": "Your friend asks you to hide their poor performance from their parents.",
+      "question": "Would you help them communicate honestly instead?",
+      "tagalog": "Tutulungan mo ba silang magsabi ng totoo sa halip na itago ito?",
+      "inspirational": "Support can mean helping someone face a difficult conversation.",
+      "mensahe": "Ang suporta ay maaaring mangahulugan ng pagtulong sa isang tao na harapin ang mahirap na pag-uusap. ."
+    },
+    {
+      "situation": "Someone apologizes sincerely after hurting you.",
+      "question": "Do you believe forgiveness should happen immediately?",
+      "tagalog": "Naniniwala ka bang dapat agad magpatawad?",
+      "inspirational": "Forgiveness can take time, and healing has its own pace.",
+      "mensahe": "Maaaring mangailangan ng panahon ang pagpapatawad at may sariling bilis ang paggaling. ."
+    },
+    {
+      "situation": "Your friend wants you to join an argument online.",
+      "question": "Would you refuse to participate if it could make things worse?",
+      "tagalog": "Tatanggi ka bang makisali kung maaari lamang lumala ang sitwasyon?",
+      "inspirational": "Not every conflict needs another voice.",
+      "mensahe": "Hindi lahat ng alitan ay nangangailangan ng dagdag na boses. ."
+    },
+    {
+      "situation": "Your friend makes a mistake that affects the whole group.",
+      "question": "Would you help them take responsibility rather than hide it?",
+      "tagalog": "Tutulungan mo ba silang panagutan ito sa halip na itago?",
+      "inspirational": "Accountability can strengthen relationships when handled with compassion.",
+      "mensahe": "Maaaring patatagin ng pananagutan ang relasyon kapag hinarap nang may malasakit. ."
+    },
+    {
+      "situation": "Your friend asks you to choose them over someone who needs urgent help.",
+      "question": "Would you explain why you need to help the other person?",
+      "tagalog": "Ipaliwanag mo ba kung bakit kailangan mong tumulong sa iba?",
+      "inspirational": "Caring for a friend does not require ignoring others in need.",
+      "mensahe": "Hindi nangangahulugan ang pagmamalasakit sa kaibigan na dapat balewalain ang nangangailangan. ."
+    },
+    {
+      "situation": "Your friend keeps giving you unwanted advice.",
+      "question": "Would you respectfully set a boundary?",
+      "tagalog": "Maglalagay ka ba ng hangganan nang may respeto?",
+      "inspirational": "Healthy relationships allow people to communicate boundaries.",
+      "mensahe": "Pinahihintulutan ng malusog na relasyon ang malinaw na komunikasyon tungkol sa hangganan. ."
+    },
+    {
+      "situation": "You hear a rumor about your friend.",
+      "question": "Would you ask your friend before believing or sharing it?",
+      "tagalog": "Tatanungin mo ba muna ang iyong kaibigan bago maniwala o magbahagi?",
+      "inspirational": "Trust grows when we choose facts over assumptions.",
+      "mensahe": "Lumalago ang tiwala kapag pinipili natin ang katotohanan kaysa palagay. ."
+    },
+    {
+      "situation": "Your friend is succeeding while you are struggling.",
+      "question": "Would you celebrate their success while continuing your own efforts?",
+      "tagalog": "Ipagdiriwang mo ba ang tagumpay nila habang ipinagpapatuloy ang iyong sariling pagsisikap?",
+      "inspirational": "Friendship is not a competition for worth.",
+      "mensahe": "Ang pagkakaibigan ay hindi paligsahan ng halaga. ."
+    },
+    {
+      "situation": "Your friend asks for feedback about their behavior.",
+      "question": "Would you be honest while remaining respectful?",
+      "tagalog": "Magiging tapat ka ba habang nananatiling magalang?",
+      "inspirational": "Honest feedback can be an act of care.",
+      "mensahe": "Ang tapat na puna ay maaaring isang paraan ng pagmamalasakit. ."
+    },
+    {
+      "situation": "Your friend is struggling but refuses your help.",
+      "question": "Would you respect their space while remaining available?",
+      "tagalog": "Igalang mo ba ang kanilang espasyo habang nananatiling handang tumulong?",
+      "inspirational": "Sometimes support means being present without forcing help.",
+      "mensahe": "Minsan ang suporta ay pagiging naroroon nang hindi ipinipilit ang tulong. ."
+    },
+    {
+      "situation": "Your family expects you to choose a career you do not want.",
+      "question": "Would you respectfully communicate your own goals?",
+      "tagalog": "Maayos mo bang sasabihin ang sarili mong mga layunin?",
+      "inspirational": "Respecting family does not mean abandoning your own voice.",
+      "mensahe": "Ang paggalang sa pamilya ay hindi nangangahulugang isuko ang sarili mong boses. ."
+    },
+    {
+      "situation": "Your friend asks you to hide information that belongs to another person.",
+      "question": "Would you protect the other person's privacy?",
+      "tagalog": "Poprotektahan mo ba ang privacy ng ibang tao?",
+      "inspirational": "Respecting privacy applies even when friendship creates pressure.",
+      "mensahe": "Nalalapat ang paggalang sa privacy kahit may pressure mula sa kaibigan. ."
+    },
+    {
+      "situation": "You hurt a friend during an argument.",
+      "question": "Would you apologize even if they also hurt you?",
+      "tagalog": "Hihingi ka ba ng tawad kahit nasaktan ka rin nila?",
+      "inspirational": "Taking responsibility for your actions does not erase another person's responsibility.",
+      "mensahe": "Ang pag-ako sa iyong ginawa ay hindi nag-aalis ng pananagutan ng ibang tao. ."
+    },
+    {
+      "situation": "Your friend asks you to keep choosing them over your own needs.",
+      "question": "Would you communicate when the relationship becomes unhealthy for you?",
+      "tagalog": "Magsasalita ka ba kapag nagiging hindi na mabuti para sa iyo ang relasyon?",
+      "inspirational": "Healthy relationships make room for both people.",
+      "mensahe": "Ang malusog na relasyon ay nagbibigay ng puwang para sa parehong tao. ."
+    },
+    {
+      "situation": "Your friend admits that they made a serious mistake.",
+      "question": "Would you help them think through responsible next steps?",
+      "tagalog": "Tutulungan mo ba silang pag-isipan ang responsableng susunod na hakbang?",
+      "inspirational": "Good friends help each other face consequences with courage.",
+      "mensahe": "Tinutulungan ng mabuting kaibigan ang isa't isa na harapin ang kahihinatnan nang may tapang. ."
+    },
+    {
+      "situation": "You realize a relationship is changing as both of you grow.",
+      "question": "Would you communicate openly rather than pretend nothing has changed?",
+      "tagalog": "Makikipag-usap ka ba nang bukas sa halip na magkunwaring walang nagbago?",
+      "inspirational": "Relationships grow through honest communication and mutual understanding.",
+      "mensahe": "Lumalago ang relasyon sa pamamagitan ng tapat na komunikasyon at pag-unawa sa isa't isa."
+    }
+  ],
+  "DILEMMAS": [
+    {
+      "situation": "You promised your friend that you would keep a secret, but you later learn that the secret could put someone in danger.",
+      "question": "Should you keep your promise or seek help?",
+      "tagalog": "Dapat mo bang tuparin ang iyong pangako o humingi ng tulong?",
+      "inspirational": "A difficult decision may require balancing loyalty with responsibility.",
+      "mensahe": "Ang mahirap na desisyon ay maaaring mangailangan ng pagbabalanse ng katapatan at responsibilidad."
+    },
+    {
+      "situation": "Your group can get a higher grade if one member secretly changes the results of your project.",
+      "question": "Would you allow the change to protect everyone's grade?",
+      "tagalog": "Papayagan mo ba ang pagbabago upang maprotektahan ang grado ng lahat?",
+      "inspirational": "Success loses meaning when it depends on dishonesty.",
+      "mensahe": "Nawawala ang tunay na halaga ng tagumpay kapag nakabatay ito sa pandaraya."
+    },
+    {
+      "situation": "Your friend committed a serious mistake and asks you to lie for them.",
+      "question": "Would you protect your friend or tell the truth?",
+      "tagalog": "Poprotektahan mo ba ang iyong kaibigan o sasabihin ang totoo?",
+      "inspirational": "Loyalty becomes meaningful when it does not require abandoning your values.",
+      "mensahe": "Nagiging makabuluhan ang katapatan kapag hindi nito hinihingi na isuko mo ang iyong mga prinsipyo."
+    },
+    {
+      "situation": "You can help one person immediately, or help several people later.",
+      "question": "Which responsibility would you prioritize?",
+      "tagalog": "Aling responsibilidad ang bibigyan mo ng prayoridad?",
+      "inspirational": "Ethical choices often require thinking about both immediate needs and wider consequences.",
+      "mensahe": "Ang etikal na pagpili ay nangangailangan ng pag-iisip sa agarang pangangailangan at mas malawak na epekto."
+    },
+    {
+      "situation": "Telling the truth will hurt someone you love, while staying silent will protect their feelings.",
+      "question": "Would you tell the truth or remain silent?",
+      "tagalog": "Sasabihin mo ba ang totoo o mananahimik?",
+      "inspirational": "Honesty requires both courage and sensitivity.",
+      "mensahe": "Ang katapatan ay nangangailangan ng tapang at pagiging maingat sa damdamin ng iba."
+    },
+    {
+      "situation": "You discover that your classmate cheated, but reporting them could cause them to lose an important opportunity.",
+      "question": "Would you report the cheating?",
+      "tagalog": "Isusumbong mo ba ang pandaraya?",
+      "inspirational": "Fairness sometimes requires difficult choices.",
+      "mensahe": "Minsan, nangangailangan ng mahirap na pagpili ang pagiging patas."
+    },
+    {
+      "situation": "Your family expects you to make one decision, while your personal values lead you another way.",
+      "question": "How would you decide?",
+      "tagalog": "Paano ka magpapasya?",
+      "inspirational": "Respecting others and remaining true to yourself can require honest conversation.",
+      "mensahe": "Ang paggalang sa iba at pagiging tapat sa sarili ay maaaring mangailangan ng bukas na pag-uusap."
+    },
+    {
+      "situation": "You find out that telling a small lie could prevent a much larger conflict.",
+      "question": "Is avoiding conflict enough reason to lie?",
+      "tagalog": "Sapat bang dahilan ang pag-iwas sa alitan upang magsinungaling?",
+      "inspirational": "Consider not only the immediate result but also what the lie may create later.",
+      "mensahe": "Isaalang-alang hindi lamang ang agarang resulta kundi pati ang maaaring idulot ng kasinungalingan sa hinaharap."
+    },
+    {
+      "situation": "You promised to help your family, but your closest friend urgently needs you.",
+      "question": "How would you decide whom to help first?",
+      "tagalog": "Paano ka magpapasya kung sino ang uunahin mong tulungan?",
+      "inspirational": "Difficult choices become clearer when we consider urgency, responsibility, and impact.",
+      "mensahe": "Nagiging mas malinaw ang mahirap na pagpili kapag isinasaalang-alang ang pangangailangan, responsibilidad, at epekto."
+    },
+    {
+      "situation": "You could save yourself from embarrassment by blaming another person.",
+      "question": "Would you protect yourself or accept responsibility?",
+      "tagalog": "Poprotektahan mo ba ang sarili mo o aakuin ang responsibilidad?",
+      "inspirational": "Taking responsibility protects both your character and another person's dignity.",
+      "mensahe": "Pinoprotektahan ng pananagutan ang iyong pagkatao at dignidad ng iba."
+    },
+    {
+      "situation": "Your friend is struggling with an assignment and asks you for your completed answers.",
+      "question": "Would you give the answers or help them understand the lesson?",
+      "tagalog": "Ibibigay mo ba ang sagot o tutulungan silang maunawaan ang aralin?",
+      "inspirational": "The best help strengthens another person's ability rather than replacing their effort.",
+      "mensahe": "Ang pinakamagandang tulong ay nagpapalakas sa kakayahan ng iba sa halip na palitan ang kanilang pagsisikap."
+    },
+    {
+      "situation": "Your group wants to exclude a member because they contributed less, but you know they were dealing with a personal problem.",
+      "question": "Should you support exclusion or give them another opportunity?",
+      "tagalog": "Susuportahan mo ba ang pagbubukod o bibigyan sila ng isa pang pagkakataon?",
+      "inspirational": "Fairness can include understanding circumstances without ignoring responsibility.",
+      "mensahe": "Maaaring kasama sa pagiging patas ang pag-unawa sa sitwasyon nang hindi binabalewala ang responsibilidad."
+    },
+    {
+      "situation": "You are given information that could help your friend but was shared with you privately.",
+      "question": "Should you share it to help your friend?",
+      "tagalog": "Dapat mo ba itong ibahagi upang matulungan ang iyong kaibigan?",
+      "inspirational": "Helping someone does not automatically give us permission to reveal another person's private information.",
+      "mensahe": "Ang pagtulong sa isang tao ay hindi awtomatikong nagbibigay ng pahintulot na ibunyag ang pribadong impormasyon ng iba."
+    },
+    {
+      "situation": "A rule seems unfair in your situation, but breaking it could affect others.",
+      "question": "Would you follow the rule or challenge it respectfully?",
+      "tagalog": "Susundin mo ba ang patakaran o hahamon dito nang maayos?",
+      "inspirational": "When rules create difficult choices, thoughtful reasoning matters.",
+      "mensahe": "Kapag nagdudulot ng mahirap na pagpili ang mga patakaran, mahalaga ang maingat na pag-iisip."
+    },
+    {
+      "situation": "You can tell the truth now and face punishment, or lie and possibly avoid consequences.",
+      "question": "Which choice would you make?",
+      "tagalog": "Aling pagpili ang gagawin mo?",
+      "inspirational": "Integrity is tested when honesty comes with a cost.",
+      "mensahe": "Nasusubok ang integridad kapag may kapalit ang katapatan."
+    },
+    {
+      "situation": "You accidentally receive confidential information intended for someone else.",
+      "question": "Would you read it or immediately notify the sender?",
+      "tagalog": "Babasahin mo ba ito o agad ipapaalam sa nagpadala?",
+      "inspirational": "Having access to information does not automatically give us the right to use it.",
+      "mensahe": "Ang pagkakaroon ng access sa impormasyon ay hindi nangangahulugang may karapatan tayong gamitin ito."
+    },
+    {
+      "situation": "Your friend asks you to support a decision you believe will harm them.",
+      "question": "Would you support them or challenge their decision?",
+      "tagalog": "Susuportahan mo ba sila o hahamonin ang kanilang desisyon?",
+      "inspirational": "Caring sometimes means saying something difficult.",
+      "mensahe": "Minsan, ang pagmamalasakit ay nangangahulugang pagsasabi ng mahirap na bagay."
+    },
+    {
+      "situation": "You can protect your reputation by hiding an important fact.",
+      "question": "Would protecting your image justify hiding the truth?",
+      "tagalog": "Makatuwiran bang itago ang katotohanan upang protektahan ang iyong imahe?",
+      "inspirational": "Reputation matters, but integrity determines how we earn trust.",
+      "mensahe": "Mahalaga ang reputasyon, ngunit ang integridad ang humuhubog sa tiwala."
+    },
+    {
+      "situation": "Two classmates need your help at the same time, but you can only help one immediately.",
+      "question": "How would you decide whom to help first?",
+      "tagalog": "Paano ka magpapasya kung sino ang unang tutulungan?",
+      "inspirational": "When resources are limited, thoughtful priorities can guide ethical decisions.",
+      "mensahe": "Kapag limitado ang kaya nating ibigay, makatutulong ang maingat na pagtatakda ng prayoridad."
+    },
+    {
+      "situation": "Your friend asks you to keep quiet about something that could unfairly affect another student.",
+      "question": "Would you remain silent?",
+      "tagalog": "Mananahimik ka ba?",
+      "inspirational": "Silence can also become a choice with consequences.",
+      "mensahe": "Ang pananahimik ay maaari ring maging isang pagpiling may kahihinatnan."
+    },
+    {
+      "situation": "You are offered an unfair advantage because someone wants to help you.",
+      "question": "Would you accept it?",
+      "tagalog": "Tatanggapin mo ba ito?",
+      "inspirational": "A benefit is not necessarily fair simply because it helps us.",
+      "mensahe": "Hindi awtomatikong patas ang isang benepisyo dahil lamang nakatutulong ito sa atin."
+    },
+    {
+      "situation": "You must choose between keeping someone's confidence and preventing possible harm.",
+      "question": "Which responsibility would you prioritize?",
+      "tagalog": "Aling responsibilidad ang uunahin mo?",
+      "inspirational": "Ethical decisions often involve weighing competing responsibilities.",
+      "mensahe": "Ang etikal na desisyon ay madalas nangangailangan ng pagtimbang sa magkakasalungat na responsibilidad."
+    },
+    {
+      "situation": "You know that telling the truth will cause your group to lose points.",
+      "question": "Would you still tell the teacher?",
+      "tagalog": "Sasabihin mo pa rin ba sa guro?",
+      "inspirational": "Fairness sometimes matters more than a temporary advantage.",
+      "mensahe": "Minsan mas mahalaga ang pagiging patas kaysa pansamantalang kalamangan."
+    },
+    {
+      "situation": "You discover a friend has been treated unfairly but asks you not to get involved.",
+      "question": "Would you respect their request or seek help?",
+      "tagalog": "Igagalang mo ba ang kanilang kahilingan o hihingi ng tulong?",
+      "inspirational": "Respecting someone's wishes and protecting their well-being can require careful judgment.",
+      "mensahe": "Ang paggalang sa kagustuhan ng iba at pagprotekta sa kanilang kapakanan ay nangangailangan ng maingat na paghatol."
+    },
+    {
+      "situation": "You have promised to help someone, but helping them now would cause you to miss an important responsibility.",
+      "question": "Should you keep the promise or fulfill your responsibility first?",
+      "tagalog": "Tutuparin mo ba ang pangako o uunahin ang iyong responsibilidad?",
+      "inspirational": "Good decisions recognize that different commitments can have different weights.",
+      "mensahe": "Kinikilala ng mabuting desisyon na maaaring magkakaiba ang bigat ng bawat pangako."
+    },
+    {
+      "situation": "Your friend wants you to hide evidence of their mistake.",
+      "question": "Would you help hide it?",
+      "tagalog": "Tutulungan mo ba silang itago ito?",
+      "inspirational": "Protecting someone should not require participating in dishonesty.",
+      "mensahe": "Hindi dapat kailanganing sumali sa panlilinlang upang maprotektahan ang isang tao."
+    },
+    {
+      "situation": "You can make your team look better by hiding another team's contribution.",
+      "question": "Would you allow your team to take all the credit?",
+      "tagalog": "Hahayaan mo bang makuha ng inyong grupo ang lahat ng kredito?",
+      "inspirational": "Recognition is meaningful when everyone receives the credit they deserve.",
+      "mensahe": "Nagiging makabuluhan ang pagkilala kapag nakukuha ng bawat isa ang kredito na nararapat sa kanila."
+    },
+    {
+      "situation": "Your friend asks you to lie because they fear rejection.",
+      "question": "Would you help them create the lie?",
+      "tagalog": "Tutulungan mo ba silang magsinungaling?",
+      "inspirational": "Fear can explain a choice, but it does not automatically make the choice ethical.",
+      "mensahe": "Maaaring ipaliwanag ng takot ang isang pagpili, ngunit hindi nito awtomatikong ginagawang tama ang pagpiling iyon."
+    },
+    {
+      "situation": "A decision benefits many people but seriously disadvantages one person.",
+      "question": "Should the majority's benefit determine your decision?",
+      "tagalog": "Dapat bang ang kapakinabangan ng nakararami ang magtakda ng iyong desisyon?",
+      "inspirational": "Consider both collective benefits and individual impact.",
+      "mensahe": "Isaalang-alang ang kapakinabangan ng nakararami at epekto sa bawat tao."
+    },
+    {
+      "situation": "You discover that your group leader is hiding important information from the members.",
+      "question": "Would you ask the leader to be transparent?",
+      "tagalog": "Hihilingin mo ba sa lider na maging bukas tungkol dito?",
+      "inspirational": "Transparency allows people to make informed and responsible choices.",
+      "mensahe": "Tinutulungan ng transparency ang mga tao na gumawa ng may kaalaman at responsableng desisyon."
+    },
+    {
+      "situation": "You can avoid conflict by pretending not to know about wrongdoing.",
+      "question": "Is avoiding conflict a good reason to stay silent?",
+      "tagalog": "Magandang dahilan ba ang pag-iwas sa alitan upang manahimik?",
+      "inspirational": "Peace is valuable, but it should not depend on ignoring serious wrongdoing.",
+      "mensahe": "Mahalaga ang kapayapaan, ngunit hindi ito dapat nakabatay sa pagbabalewala sa malubhang pagkakamali."
+    },
+    {
+      "situation": "You promised to support someone, but you later discover they were dishonest with you.",
+      "question": "Should your promise still apply?",
+      "tagalog": "Dapat mo pa rin bang tuparin ang iyong pangako?",
+      "inspirational": "Commitments deserve reflection when important circumstances change.",
+      "mensahe": "Kailangang pag-isipan ang mga pangako kapag nagbabago ang mahahalagang sitwasyon."
+    },
+    {
+      "situation": "You can help someone by breaking a minor rule.",
+      "question": "Would the good result justify breaking the rule?",
+      "tagalog": "Makatuwiran bang labagin ang patakaran dahil mabuti ang magiging resulta?",
+      "inspirational": "Ethical reasoning considers both principles and consequences.",
+      "mensahe": "Isinasaalang-alang ng etikal na pag-iisip ang prinsipyo at kahihinatnan."
+    },
+    {
+      "situation": "Your friend wants you to support them even though you believe they are wrong.",
+      "question": "Does being a good friend mean agreeing with them?",
+      "tagalog": "Nangangahulugan ba ang pagiging mabuting kaibigan na dapat kang sumang-ayon sa kanila?",
+      "inspirational": "Genuine support can include respectful disagreement.",
+      "mensahe": "Maaaring kasama sa tunay na suporta ang maayos na hindi pagsang-ayon."
+    },
+    {
+      "situation": "You are responsible for correcting a mistake that nobody else knows about.",
+      "question": "Would you correct it even if it creates extra work?",
+      "tagalog": "Itatama mo ba ito kahit dagdag na trabaho?",
+      "inspirational": "Integrity often asks us to do what is right when doing so is inconvenient.",
+      "mensahe": "Madalas hinihingi ng integridad ang paggawa ng tama kahit hindi ito maginhawa."
+    },
+    {
+      "situation": "You must decide whether to forgive someone who has apologized sincerely.",
+      "question": "Should forgiveness be immediate?",
+      "tagalog": "Dapat ba agad ang pagpapatawad?",
+      "inspirational": "Forgiveness can be meaningful while still allowing time for healing.",
+      "mensahe": "Maaaring maging makabuluhan ang pagpapatawad habang binibigyan pa rin ng panahon ang paggaling."
+    },
+    {
+      "situation": "You know someone will be embarrassed if you tell the truth publicly.",
+      "question": "Should you find a private way to address the issue?",
+      "tagalog": "Dapat ka bang humanap ng pribadong paraan upang harapin ang problema?",
+      "inspirational": "Doing the right thing also involves considering how we treat people's dignity.",
+      "mensahe": "Kasama sa paggawa ng tama ang paggalang sa dignidad ng ibang tao."
+    },
+    {
+      "situation": "Your friend asks you to choose between honesty and protecting their relationship.",
+      "question": "How would you balance both responsibilities?",
+      "tagalog": "Paano mo babalansehin ang dalawang responsibilidad?",
+      "inspirational": "Difficult choices require patience, empathy, and careful thought.",
+      "mensahe": "Ang mahirap na pagpili ay nangangailangan ng pasensya, empathy, at maingat na pag-iisip."
+    },
+    {
+      "situation": "You discover an unfair advantage that could benefit your entire class.",
+      "question": "Would you use it or report it?",
+      "tagalog": "Gagamitin mo ba ito o iuulat?",
+      "inspirational": "Collective benefit does not automatically make an unfair action right.",
+      "mensahe": "Hindi awtomatikong nagiging tama ang hindi patas na gawain dahil nakikinabang ang marami."
+    },
+    {
+      "situation": "You have to choose between being loyal to your group and being fair to someone outside it.",
+      "question": "Which responsibility would you consider first?",
+      "tagalog": "Aling responsibilidad ang una mong isasaalang-alang?",
+      "inspirational": "Loyalty is important, but fairness asks us to look beyond our own circle.",
+      "mensahe": "Mahalaga ang katapatan, ngunit hinihikayat tayo ng pagiging patas na tumingin lampas sa sarili nating grupo."
+    },
+    {
+      "situation": "Your family member asks you to hide a serious wrongdoing.",
+      "question": "Would family loyalty change your decision?",
+      "tagalog": "Magbabago ba ang iyong desisyon dahil kapamilya mo siya?",
+      "inspirational": "Love for family can coexist with responsibility and accountability.",
+      "mensahe": "Maaaring magsama ang pagmamahal sa pamilya at pananagutan."
+    },
+    {
+      "situation": "You are offered a reward for keeping an important truth secret.",
+      "question": "Would the reward change your decision?",
+      "tagalog": "Babaguhin ba ng gantimpala ang iyong desisyon?",
+      "inspirational": "Ethical choices should not depend entirely on personal rewards.",
+      "mensahe": "Hindi dapat nakasalalay lamang sa personal na gantimpala ang etikal na pagpili."
+    },
+    {
+      "situation": "You have to choose between telling the truth now or waiting until the timing is better.",
+      "question": "Would waiting ever be more responsible than speaking immediately?",
+      "tagalog": "May pagkakataon bang mas responsableng maghintay kaysa magsalita agad?",
+      "inspirational": "Timing can matter when truth affects other people's well-being.",
+      "mensahe": "Mahalaga rin ang tamang oras kapag nakaaapekto ang katotohanan sa kapakanan ng iba."
+    },
+    {
+      "situation": "A friend needs your help, but you know helping them may create a larger problem later.",
+      "question": "Would you help immediately or explain your concern first?",
+      "tagalog": "Tutulong ka ba agad o ipapaliwanag muna ang iyong alalahanin?",
+      "inspirational": "Good intentions should be accompanied by thoughtful judgment.",
+      "mensahe": "Dapat samahan ng maingat na paghatol ang mabuting intensyon."
+    },
+    {
+      "situation": "Your group disagrees about what is fair.",
+      "question": "Would you listen to every side before deciding?",
+      "tagalog": "Pakikinggan mo ba ang lahat ng panig bago magdesisyon?",
+      "inspirational": "Listening can reveal ethical considerations we may have overlooked.",
+      "mensahe": "Maaaring ipakita ng pakikinig ang mga bagay na hindi natin agad napansin."
+    },
+    {
+      "situation": "You must decide whether to prioritize rules or compassion in a difficult situation.",
+      "question": "How would you balance both?",
+      "tagalog": "Paano mo babalansehin ang dalawa?",
+      "inspirational": "Ethical maturity involves understanding that important values can sometimes conflict.",
+      "mensahe": "Kasama sa etikal na pagiging mature ang pag-unawa na minsan ay nagkakasalungatan ang mahahalagang pagpapahalaga."
+    },
+    {
+      "situation": "Your friend asks you to take responsibility for something they did.",
+      "question": "Would you accept the blame to protect them?",
+      "tagalog": "Aakuin mo ba ang sisi upang protektahan sila?",
+      "inspirational": "Protecting someone does not always mean taking responsibility for their actions.",
+      "mensahe": "Hindi laging nangangahulugan ang pagprotekta sa isang tao na aakuin natin ang kanilang ginawa."
+    },
+    {
+      "situation": "You have limited time and must choose between helping yourself and helping someone else.",
+      "question": "How would you decide?",
+      "tagalog": "Paano ka magpapasya?",
+      "inspirational": "Caring for others should be balanced with reasonable responsibility toward yourself.",
+      "mensahe": "Dapat balansehin ang pagtulong sa iba at makatuwirang responsibilidad sa sarili."
+    },
+    {
+      "situation": "Your decision will affect people who are not present to explain their side.",
+      "question": "Would you seek their perspective before deciding?",
+      "tagalog": "Hahanapin mo ba ang kanilang pananaw bago magdesisyon?",
+      "inspirational": "Fair decisions become stronger when absent voices are considered.",
+      "mensahe": "Mas nagiging patas ang desisyon kapag isinasaalang-alang ang pananaw ng mga taong wala."
+    },
+    {
+      "situation": "There is no choice that will make everyone happy.",
+      "question": "How would you choose the most responsible path?",
+      "tagalog": "Paano mo pipiliin ang pinakaresponsableng paraan?",
+      "inspirational": "Ethical decisions are not always perfect; what matters is thoughtful responsibility.",
+      "mensahe": "Hindi laging perpekto ang etikal na desisyon; mahalaga ang maingat na pananagutan."
+    }
+  ],
+  "DIGITAL LIFE": [
+    {
+      "situation": "You take a funny photo of your classmate.",
+      "question": "Would you post it without asking permission?",
+      "tagalog": "Ipo-post mo ba ito nang hindi humihingi ng pahintulot?",
+      "inspirational": "A funny post should never come at another person's expense.",
+      "mensahe": "Ang nakakatawang post ay hindi dapat nakasasakit o nakapapahiya sa iba."
+    },
+    {
+      "situation": "A friend sends you a private message containing personal information.",
+      "question": "Would you forward it to another friend?",
+      "tagalog": "Ipapasa mo ba ito sa ibang kaibigan?",
+      "inspirational": "Privacy remains important even when information is easy to share.",
+      "mensahe": "Mahalaga pa rin ang privacy kahit madaling ibahagi ang impormasyon."
+    },
+    {
+      "situation": "You see an unverified announcement spreading quickly online.",
+      "question": "Would you share it before checking whether it is true?",
+      "tagalog": "Ipapakalat mo ba ito bago suriin kung totoo?",
+      "inspirational": "Sharing information responsibly means checking before spreading.",
+      "mensahe": "Ang responsableng pagbabahagi ng impormasyon ay nangangahulugang magsuri muna bago magpakalat."
+    },
+    {
+      "situation": "You use AI to explain an assignment topic and then copy its answer.",
+      "question": "At what point does assistance become doing the work for you?",
+      "tagalog": "Kailan nagiging paggawa na para sa iyo ang tulong ng AI?",
+      "inspirational": "Technology should support learning without replacing your own effort.",
+      "mensahe": "Dapat suportahan ng teknolohiya ang pagkatuto nang hindi pinapalitan ang sariling pagsisikap."
+    },
+    {
+      "situation": "You find a classmate's password written on a piece of paper.",
+      "question": "Would you try using it?",
+      "tagalog": "Susubukan mo ba itong gamitin?",
+      "inspirational": "Access is not permission.",
+      "mensahe": "Ang pagkakaroon ng access ay hindi nangangahulugang may pahintulot."
+    },
+    {
+      "situation": "Your friends create a group chat to make fun of another student.",
+      "question": "Would you participate?",
+      "tagalog": "Makikilahok ka ba?",
+      "inspirational": "Being online does not remove our responsibility toward others.",
+      "mensahe": "Hindi nawawala ang ating responsibilidad sa iba dahil lamang online tayo."
+    },
+    {
+      "situation": "Someone posts a humiliating video of your classmate.",
+      "question": "Would you share it even if it is already popular?",
+      "tagalog": "Ipapasa mo ba ito kahit marami na ang nagbabahagi?",
+      "inspirational": "Popularity does not make harmful content ethical.",
+      "mensahe": "Hindi ginagawang tama ng kasikatan ang nakasasamang content."
+    },
+    {
+      "situation": "You receive a screenshot of a private conversation.",
+      "question": "Would you keep it private?",
+      "tagalog": "Pananatiliin mo ba itong pribado?",
+      "inspirational": "Private conversations deserve respect even after they become screenshots.",
+      "mensahe": "Karapat-dapat pa ring igalang ang pribadong usapan kahit naging screenshot na ito."
+    },
+    {
+      "situation": "You disagree with someone's opinion in a comment section.",
+      "question": "Would you respond respectfully?",
+      "tagalog": "Sasagot ka ba nang may respeto?",
+      "inspirational": "Disagreement online still requires civility.",
+      "mensahe": "Ang hindi pagkakasundo online ay nangangailangan pa rin ng paggalang."
+    },
+    {
+      "situation": "A friend asks you to create a fake account to criticize someone anonymously.",
+      "question": "Would you create the account?",
+      "tagalog": "Gagawa ka ba ng account?",
+      "inspirational": "Anonymity does not remove responsibility for our actions.",
+      "mensahe": "Hindi inaalis ng anonymity ang responsibilidad sa ating mga kilos."
+    },
+    {
+      "situation": "You find someone's personal information through a public profile.",
+      "question": "Would you share it with others?",
+      "tagalog": "Ibabahagi mo ba ito sa iba?",
+      "inspirational": "Information being publicly visible does not mean it should be redistributed carelessly.",
+      "mensahe": "Hindi nangangahulugang dapat basta ipamahagi ang impormasyon dahil lamang nakikita ito online."
+    },
+    {
+      "situation": "You receive a suspicious link from someone you know.",
+      "question": "Would you forward it without checking?",
+      "tagalog": "Ipapasa mo ba ito nang hindi sinusuri?",
+      "inspirational": "Responsible digital behavior includes thinking before clicking and sharing.",
+      "mensahe": "Kasama sa responsableng paggamit ng teknolohiya ang pag-iisip bago mag-click at magbahagi."
+    },
+    {
+      "situation": "Your friend asks you to post something embarrassing about another student as a joke.",
+      "question": "Would you post it?",
+      "tagalog": "Ipo-post mo ba ito?",
+      "inspirational": "Humor should not require another person's humiliation.",
+      "mensahe": "Hindi dapat kailanganin ng katatawanan ang kahihiyan ng ibang tao."
+    },
+    {
+      "situation": "You discover that an online article contains false information.",
+      "question": "Would you correct it respectfully?",
+      "tagalog": "Itatama mo ba ito nang may respeto?",
+      "inspirational": "Digital responsibility includes helping others recognize reliable information.",
+      "mensahe": "Kasama sa digital responsibility ang pagtulong sa iba na makilala ang mapagkakatiwalaang impormasyon."
+    },
+    {
+      "situation": "You use an AI-generated image for a school project.",
+      "question": "Would you disclose that AI helped create it?",
+      "tagalog": "Sasabihin mo ba na gumamit ka ng AI sa paggawa nito?",
+      "inspirational": "Transparency helps others understand how digital content was created.",
+      "mensahe": "Tinutulungan ng transparency ang iba na maunawaan kung paano ginawa ang digital content."
+    },
+    {
+      "situation": "Your friend asks for your social-media password to prove that you trust them.",
+      "question": "Would you give it to them?",
+      "tagalog": "Ibibigay mo ba ito sa kanila?",
+      "inspirational": "Trust does not require giving up reasonable privacy and security.",
+      "mensahe": "Hindi kailangang isuko ang privacy at seguridad upang mapatunayan ang tiwala."
+    },
+    {
+      "situation": "You see someone being bullied in an online game.",
+      "question": "Would you report the behavior?",
+      "tagalog": "Ire-report mo ba ang ganitong kilos?",
+      "inspirational": "Digital spaces become safer when people take responsibility for how others are treated.",
+      "mensahe": "Nagiging mas ligtas ang digital spaces kapag may pananagutan ang mga tao sa pakikitungo sa iba."
+    },
+    {
+      "situation": "You accidentally receive a private photo meant for someone else.",
+      "question": "Would you delete it without sharing it?",
+      "tagalog": "Buburahin mo ba ito nang hindi ipinapasa?",
+      "inspirational": "Respecting privacy means knowing when not to look, save, or share.",
+      "mensahe": "Ang paggalang sa privacy ay pag-alam kung kailan hindi dapat tumingin, mag-save, o magbahagi."
+    },
+    {
+      "situation": "Your classmates are spreading a rumor through social media.",
+      "question": "Would you join the discussion?",
+      "tagalog": "Makikisali ka ba sa usapan?",
+      "inspirational": "A rumor becomes more harmful each time it is passed along.",
+      "mensahe": "Mas nagiging mapanganib ang tsismis sa bawat pagkakataong ipinapasa ito."
+    },
+    {
+      "situation": "You receive a message containing hateful comments about a group of people.",
+      "question": "Would you forward it as a joke?",
+      "tagalog": "Ipapasa mo ba ito bilang biro?",
+      "inspirational": "Words can cause harm even when shared without serious intent.",
+      "mensahe": "Maaaring makasakit ang mga salita kahit ipinasa lamang bilang biro."
+    },
+    {
+      "situation": "You use someone else's photograph for your profile without asking.",
+      "question": "Is it ethical to use it?",
+      "tagalog": "Etikal ba itong gamitin?",
+      "inspirational": "Digital content still belongs to people who deserve respect and consent.",
+      "mensahe": "Ang digital content ay may kaugnayan pa rin sa mga taong dapat igalang at hingan ng pahintulot."
+    },
+    {
+      "situation": "Your friend asks you to download copyrighted material for them.",
+      "question": "Would you provide it?",
+      "tagalog": "Ibibigay mo ba ito?",
+      "inspirational": "Convenience does not erase responsibility for respecting creators.",
+      "mensahe": "Hindi inaalis ng kaginhawaan ang responsibilidad na igalang ang mga creator."
+    },
+    {
+      "situation": "You find an online post that attacks your classmate unfairly.",
+      "question": "Would you defend your classmate or remain silent?",
+      "tagalog": "Ipagtatanggol mo ba ang iyong kaklase o mananahimik?",
+      "inspirational": "Speaking respectfully against unfairness can make digital spaces more humane.",
+      "mensahe": "Ang maayos na pagsasalita laban sa kawalan ng katarungan ay maaaring gawing mas makatao ang digital spaces."
+    },
+    {
+      "situation": "An AI tool produces information that sounds convincing but you cannot verify it.",
+      "question": "Would you use it without checking?",
+      "tagalog": "Gagamitin mo ba ito nang hindi sinusuri?",
+      "inspirational": "Technology can provide information, but responsible users still verify it.",
+      "mensahe": "Maaaring magbigay ng impormasyon ang teknolohiya, ngunit sinusuri pa rin ito ng responsableng user."
+    },
+    {
+      "situation": "You are asked to post a positive review for a product you have never used.",
+      "question": "Would you write the review?",
+      "tagalog": "Susulat ka ba ng review?",
+      "inspirational": "Online trust depends on honest experiences.",
+      "mensahe": "Nakabatay ang online trust sa mga tapat na karanasan."
+    },
+    {
+      "situation": "A website asks for personal information that seems unnecessary.",
+      "question": "Would you provide it just to access the website?",
+      "tagalog": "Ibibigay mo ba ito para lamang makapasok sa website?",
+      "inspirational": "Good digital decisions consider what information is necessary and why.",
+      "mensahe": "Isinasaalang-alang ng mabuting digital decision kung anong impormasyon ang kailangan at bakit."
+    },
+    {
+      "situation": "You discover that an app is collecting more data than you expected.",
+      "question": "Would you continue using it without learning how your data is used?",
+      "tagalog": "Patuloy mo ba itong gagamitin nang hindi nalalaman kung paano ginagamit ang iyong data?",
+      "inspirational": "Understanding data practices helps us make informed digital choices.",
+      "mensahe": "Ang pag-unawa sa paggamit ng data ay tumutulong sa atin na gumawa ng may kaalamang desisyon."
+    },
+    {
+      "situation": "A friend asks you to share a school announcement that has not been officially confirmed.",
+      "question": "Would you wait for verification?",
+      "tagalog": "Maghihintay ka ba ng kumpirmasyon?",
+      "inspirational": "Being first to share is less important than being accurate.",
+      "mensahe": "Mas mahalaga ang pagiging tama kaysa pagiging unang magbahagi."
+    },
+    {
+      "situation": "You see someone being mocked in a comment section.",
+      "question": "Would you add another joke?",
+      "tagalog": "Magdadagdag ka ba ng isa pang biro?",
+      "inspirational": "Online crowds can make harmful behavior feel normal, but responsibility remains personal.",
+      "mensahe": "Maaaring gawing normal ng online crowd ang nakasasamang kilos, ngunit personal pa rin ang responsibilidad."
+    },
+    {
+      "situation": "Your friend asks you to edit a photo to make another student look ridiculous.",
+      "question": "Would you make the edit?",
+      "tagalog": "Ie-edit mo ba ang larawan?",
+      "inspirational": "Digital creativity should not be used to humiliate others.",
+      "mensahe": "Hindi dapat gamitin ang digital creativity upang ipahiya ang iba."
+    },
+    {
+      "situation": "You receive a message from an unknown account asking for your personal information.",
+      "question": "Would you respond?",
+      "tagalog": "Sasagot ka ba?",
+      "inspirational": "Caution is part of responsible digital citizenship.",
+      "mensahe": "Bahagi ng responsableng digital citizenship ang pagiging maingat."
+    },
+    {
+      "situation": "Your group uses AI to generate most of a school presentation.",
+      "question": "Would you tell your teacher how much AI contributed?",
+      "tagalog": "Sasabihin mo ba sa guro kung gaano kalaki ang ambag ng AI?",
+      "inspirational": "Transparency helps distinguish assistance from replacing your own work.",
+      "mensahe": "Tinutulungan tayo ng transparency na maunawaan ang pagkakaiba ng tulong at pagpapalit sa sariling gawa."
+    },
+    {
+      "situation": "You see a private account posting something that could harm another person.",
+      "question": "Would you share the post publicly to expose them?",
+      "tagalog": "Ipapakalat mo ba ang post upang ilantad sila?",
+      "inspirational": "Responding to wrongdoing should still consider privacy and proportionality.",
+      "mensahe": "Kahit sa maling gawain, dapat pa ring isaalang-alang ang privacy at tamang paraan ng pagtugon."
+    },
+    {
+      "situation": "Your friend asks you to make their online argument look stronger by deleting opposing comments.",
+      "question": "Would you help them?",
+      "tagalog": "Tutulungan mo ba sila?",
+      "inspirational": "A strong argument does not need to silence every opposing view.",
+      "mensahe": "Hindi kailangang patahimikin ang lahat ng hindi sumasang-ayon upang maging matibay ang argumento."
+    },
+    {
+      "situation": "You discover an old embarrassing post about someone.",
+      "question": "Would you bring it back to public attention?",
+      "tagalog": "Ibabalik mo ba ito sa atensyon ng publiko?",
+      "inspirational": "People deserve room to grow beyond their past mistakes.",
+      "mensahe": "Karapat-dapat ang mga tao sa pagkakataong lumago lampas sa kanilang mga nakaraang pagkakamali."
+    },
+    {
+      "situation": "You receive a private confession from someone through social media.",
+      "question": "Would you screenshot it and show your friends?",
+      "tagalog": "I-screenshot mo ba ito at ipapakita sa iyong mga kaibigan?",
+      "inspirational": "A private message is still private even when sharing it feels tempting.",
+      "mensahe": "Pribado pa rin ang isang mensahe kahit nakatutukso itong ibahagi."
+    },
+    {
+      "situation": "Your friend asks you to pretend you created work that AI actually generated.",
+      "question": "Would you agree?",
+      "tagalog": "Papayag ka ba?",
+      "inspirational": "Authentic work includes honesty about the tools used to create it.",
+      "mensahe": "Kasama sa tunay na gawa ang pagiging tapat tungkol sa mga tool na ginamit."
+    },
+    {
+      "situation": "You notice a fake account pretending to be someone you know.",
+      "question": "Would you report it?",
+      "tagalog": "Ire-report mo ba ito?",
+      "inspirational": "Protecting someone's identity is part of responsible online behavior.",
+      "mensahe": "Bahagi ng responsableng online behavior ang pagprotekta sa identity ng iba."
+    },
+    {
+      "situation": "Your friend posts something angry while clearly upset.",
+      "question": "Would you encourage them to pause before posting more?",
+      "tagalog": "Hihikayatin mo ba silang huminto muna bago mag-post muli?",
+      "inspirational": "A moment of reflection can prevent a permanent digital mistake.",
+      "mensahe": "Maaaring maiwasan ng maikling pag-iisip ang permanenteng digital mistake."
+    },
+    {
+      "situation": "You are tempted to argue with someone simply because you dislike their opinion.",
+      "question": "Would you choose not to engage?",
+      "tagalog": "Pipiliin mo bang huwag makipagtalo?",
+      "inspirational": "Not every disagreement needs to become a digital conflict.",
+      "mensahe": "Hindi lahat ng hindi pagkakasundo ay kailangang maging online conflict."
+    },
+    {
+      "situation": "A classmate asks you to share an online account that requires payment.",
+      "question": "Would you share the account without permission?",
+      "tagalog": "Ibabahagi mo ba ang account nang walang pahintulot?",
+      "inspirational": "Digital access should respect agreements and ownership.",
+      "mensahe": "Dapat igalang ng digital access ang kasunduan at pagmamay-ari."
+    },
+    {
+      "situation": "You find a private school document online because someone accidentally uploaded it.",
+      "question": "Would you download and share it?",
+      "tagalog": "Ida-download at ibabahagi mo ba ito?",
+      "inspirational": "Accidental access does not create ethical permission.",
+      "mensahe": "Ang hindi sinasadyang access ay hindi awtomatikong nagbibigay ng pahintulot."
+    },
+    {
+      "situation": "A viral post claims a student committed serious wrongdoing.",
+      "question": "Would you believe and share it immediately?",
+      "tagalog": "Paniniwalaan at ibabahagi mo ba agad ito?",
+      "inspirational": "Serious claims deserve careful verification before they are repeated.",
+      "mensahe": "Ang malubhang paratang ay nangangailangan ng maingat na pagsusuri bago ulitin."
+    },
+    {
+      "situation": "Your friend asks you to use their account while they are away.",
+      "question": "Would you access private messages without their permission?",
+      "tagalog": "Babasahin mo ba ang private messages nang walang pahintulot?",
+      "inspirational": "Trust includes respecting digital boundaries.",
+      "mensahe": "Kasama sa tiwala ang paggalang sa digital boundaries."
+    },
+    {
+      "situation": "You can make your school project look better by using an image without checking its source.",
+      "question": "Would you use it anyway?",
+      "tagalog": "Gagamitin mo pa rin ba ito?",
+      "inspirational": "Good digital work respects both creativity and ownership.",
+      "mensahe": "Iginagalang ng mabuting digital work ang creativity at pagmamay-ari."
+    },
+    {
+      "situation": "A friend asks you to create a misleading caption for a photo.",
+      "question": "Would you create it if it gets more attention?",
+      "tagalog": "Gagawin mo ba ito kung mas maraming makakapansin?",
+      "inspirational": "Attention is not worth sacrificing honesty.",
+      "mensahe": "Hindi sulit isakripisyo ang katapatan para lamang makakuha ng atensyon."
+    },
+    {
+      "situation": "You see someone being targeted repeatedly online.",
+      "question": "Would you report, support the person, or simply scroll past?",
+      "tagalog": "Ire-report mo ba, susuportahan ang tao, o mag-scroll na lang?",
+      "inspirational": "Small responsible actions can make digital spaces safer.",
+      "mensahe": "Ang maliliit na responsableng kilos ay maaaring makatulong upang maging mas ligtas ang digital spaces."
+    },
+    {
+      "situation": "Your friend asks you to delete evidence of something they posted.",
+      "question": "Would you help them hide it?",
+      "tagalog": "Tutulungan mo ba silang itago ito?",
+      "inspirational": "Correcting a mistake is different from hiding responsibility.",
+      "mensahe": "Iba ang pagwawasto ng pagkakamali sa pagtatago ng pananagutan."
+    },
+    {
+      "situation": "You discover that a popular account uses misleading information to gain followers.",
+      "question": "Would you continue supporting the account?",
+      "tagalog": "Patuloy mo ba itong susuportahan?",
+      "inspirational": "Popularity should not replace accuracy and responsibility.",
+      "mensahe": "Hindi dapat palitan ng kasikatan ang katumpakan at responsibilidad."
+    },
+    {
+      "situation": "You have the opportunity to make a positive difference online.",
+      "question": "Would you use your digital presence responsibly?",
+      "tagalog": "Gagamitin mo ba nang responsable ang iyong digital presence?",
+      "inspirational": "Every online action contributes to the kind of digital community we create.",
+      "mensahe": "Ang bawat online action ay nakatutulong sa paghubog ng digital community na ating nililikha."
+    }
+  ],
+  "MORAL COMPASS": [
+    {
+      "situation": "Everyone around you believes something is acceptable, but your conscience tells you otherwise.",
+      "question": "Would you follow the group or your conscience?",
+      "tagalog": "Susundin mo ba ang grupo o ang iyong konsensya?",
+      "inspirational": "Your moral compass matters most when others pull you in another direction.",
+      "mensahe": "Pinakamahalaga ang iyong moral compass kapag hinihila ka ng iba sa ibang direksyon."
+    },
+    {
+      "situation": "You can benefit from something that you know is unfair.",
+      "question": "Would you accept the benefit?",
+      "tagalog": "Tatanggapin mo ba ang benepisyo?",
+      "inspirational": "Doing what is right sometimes means giving up an advantage.",
+      "mensahe": "Minsan ang paggawa ng tama ay nangangahulugang isuko ang isang kalamangan."
+    },
+    {
+      "situation": "Nobody will know if you break an important rule.",
+      "question": "Would you still follow the rule?",
+      "tagalog": "Susundin mo pa rin ba ang patakaran?",
+      "inspirational": "Integrity is what we choose when external consequences disappear.",
+      "mensahe": "Ang integridad ay makikita sa pagpili natin kahit walang panlabas na parusa."
+    },
+    {
+      "situation": "Your intention is good, but your action may hurt someone.",
+      "question": "Does having a good intention make the action right?",
+      "tagalog": "Nagiging tama ba ang kilos dahil mabuti ang iyong intensyon?",
+      "inspirational": "Ethical reflection considers both intention and impact.",
+      "mensahe": "Isinasaalang-alang ng etikal na pag-iisip ang intensyon at epekto."
+    },
+    {
+      "situation": "You know something is legal but believe it is morally questionable.",
+      "question": "Is legality enough to determine whether something is right?",
+      "tagalog": "Sapat na ba ang pagiging legal upang masabing tama ang isang bagay?",
+      "inspirational": "Laws and morality can overlap, but ethical reflection also asks why an action is right or wrong.",
+      "mensahe": "Maaaring magkaugnay ang batas at moralidad, ngunit tinatanong din ng ethics kung bakit tama o mali ang isang kilos."
+    },
+    {
+      "situation": "You must choose between fairness and kindness.",
+      "question": "Can a decision be both fair and compassionate?",
+      "tagalog": "Maaari bang maging parehong patas at maawain ang isang desisyon?",
+      "inspirational": "Ethical decisions can require balancing different values rather than choosing only one.",
+      "mensahe": "Maaaring mangailangan ang etikal na desisyon ng pagbabalanse ng iba't ibang pagpapahalaga."
+    },
+    {
+      "situation": "Your friend says something is right because everyone is doing it.",
+      "question": "Is popularity a good measure of morality?",
+      "tagalog": "Magandang sukatan ba ng moralidad ang pagiging popular?",
+      "inspirational": "What is common is not automatically what is right.",
+      "mensahe": "Hindi awtomatikong tama ang isang bagay dahil karaniwan itong ginagawa."
+    },
+    {
+      "situation": "You can do the right thing but nobody will ever know about it.",
+      "question": "Would you still do it?",
+      "tagalog": "Gagawin mo pa rin ba ito?",
+      "inspirational": "Character is built through choices made without applause.",
+      "mensahe": "Nabubuo ang pagkatao sa mga pagpiling ginagawa kahit walang papuri."
+    },
+    {
+      "situation": "You discover that your personal values conflict with a group tradition.",
+      "question": "Would you question the tradition respectfully?",
+      "tagalog": "Kuwekuwestiyunin mo ba nang may respeto ang tradisyon?",
+      "inspirational": "Respecting tradition does not remove our ability to think critically.",
+      "mensahe": "Ang paggalang sa tradisyon ay hindi nangangahulugang hindi na tayo maaaring mag-isip nang kritikal."
+    },
+    {
+      "situation": "You must choose between telling a difficult truth and protecting someone's feelings.",
+      "question": "What would your moral compass consider first?",
+      "tagalog": "Ano ang unang isasaalang-alang ng iyong moral compass?",
+      "inspirational": "Ethical maturity includes understanding the reasons behind our choices.",
+      "mensahe": "Kasama sa ethical maturity ang pag-unawa sa dahilan ng ating mga pagpili."
+    },
+    {
+      "situation": "You realize you made a decision based mainly on anger.",
+      "question": "Would you reconsider your decision?",
+      "tagalog": "Muli mo bang pag-iisipan ang iyong desisyon?",
+      "inspirational": "Emotions matter, but they do not always provide the clearest moral direction.",
+      "mensahe": "Mahalaga ang emosyon, ngunit hindi ito laging nagbibigay ng pinakamalinaw na moral na direksyon."
+    },
+    {
+      "situation": "You are pressured to compromise your values for success.",
+      "question": "Would success be worth changing your principles?",
+      "tagalog": "Sulit ba ang tagumpay kung kailangan mong baguhin ang iyong prinsipyo?",
+      "inspirational": "Achievement has deeper meaning when it does not require abandoning your values.",
+      "mensahe": "Mas makabuluhan ang tagumpay kapag hindi nito hinihingi ang pagsuko ng iyong mga prinsipyo."
+    },
+    {
+      "situation": "Someone does something wrong but sincerely regrets it.",
+      "question": "Should remorse affect how you judge their action?",
+      "tagalog": "Dapat bang makaapekto ang pagsisisi nila sa iyong paghatol?",
+      "inspirational": "Accountability and compassion can both have a place in moral reasoning.",
+      "mensahe": "Maaaring magkaroon ng lugar ang pananagutan at malasakit sa moral na pag-iisip."
+    },
+    {
+      "situation": "You have to decide whether to forgive someone.",
+      "question": "Is forgiveness always morally required?",
+      "tagalog": "Palagi bang moral na obligasyon ang pagpapatawad?",
+      "inspirational": "Forgiveness is meaningful, but personal boundaries and healing also matter.",
+      "mensahe": "Makabuluhan ang pagpapatawad, ngunit mahalaga rin ang personal na boundaries at paggaling."
+    },
+    {
+      "situation": "You know a person's action is wrong but understand why they did it.",
+      "question": "Can understanding an action coexist with disagreeing with it?",
+      "tagalog": "Maaari bang maunawaan ang dahilan ng isang kilos kahit hindi ka sumasang-ayon dito?",
+      "inspirational": "Understanding is not always the same as approval.",
+      "mensahe": "Hindi palaging nangangahulugan ang pag-unawa ng pagsang-ayon."
+    },
+    {
+      "situation": "Your moral choice may cause you to lose friends.",
+      "question": "Would you still follow your values?",
+      "tagalog": "Paninindigan mo pa rin ba ang iyong mga pagpapahalaga?",
+      "inspirational": "Values are meaningful when they guide us through difficult moments.",
+      "mensahe": "Nagiging makabuluhan ang values kapag ginagabayan tayo nito sa mahihirap na panahon."
+    },
+    {
+      "situation": "You have to choose between what feels right and what produces the better outcome.",
+      "question": "Which would you consider more important?",
+      "tagalog": "Alin ang mas bibigyan mo ng halaga?",
+      "inspirational": "Ethical thinking can involve both principles and consequences.",
+      "mensahe": "Maaaring isaalang-alang ng ethical thinking ang prinsipyo at kahihinatnan."
+    },
+    {
+      "situation": "Someone asks you to judge another person based on rumors.",
+      "question": "Would you refuse to judge without knowing the facts?",
+      "tagalog": "Tatanggi ka bang humusga nang hindi alam ang katotohanan?",
+      "inspirational": "Fair judgment requires patience and reliable information.",
+      "mensahe": "Nangangailangan ng pasensya at maaasahang impormasyon ang patas na paghatol."
+    },
+    {
+      "situation": "You realize that your actions benefited you but harmed another person.",
+      "question": "Would you reconsider whether your decision was right?",
+      "tagalog": "Muli mo bang susuriin kung tama ang iyong desisyon?",
+      "inspirational": "Ethical reflection begins when we consider the impact of our choices.",
+      "mensahe": "Nagsisimula ang ethical reflection kapag isinasaalang-alang natin ang epekto ng ating mga pagpili."
+    },
+    {
+      "situation": "Your conscience tells you to apologize even though the other person has not apologized.",
+      "question": "Would you apologize first?",
+      "tagalog": "Ikaw ba ang unang hihingi ng tawad?",
+      "inspirational": "Doing your part does not depend entirely on what others do first.",
+      "mensahe": "Ang paggawa ng iyong bahagi ay hindi laging nakadepende sa unang kilos ng iba."
+    },
+    {
+      "situation": "A decision benefits your family but disadvantages strangers.",
+      "question": "Should your responsibility to family determine your decision?",
+      "tagalog": "Dapat bang ang responsibilidad mo sa pamilya ang magtakda ng desisyon?",
+      "inspirational": "Moral responsibility can extend beyond the people closest to us.",
+      "mensahe": "Maaaring umabot lampas sa pinakamalapit sa atin ang moral na responsibilidad."
+    },
+    {
+      "situation": "You see an unfair action but believe someone else should handle it.",
+      "question": "Do you still have a responsibility to act?",
+      "tagalog": "May responsibilidad ka pa rin bang kumilos?",
+      "inspirational": "Responsibility sometimes begins when we recognize that our actions can make a difference.",
+      "mensahe": "Minsan nagsisimula ang responsibilidad kapag kinilala nating may magagawa tayo."
+    },
+    {
+      "situation": "You have to choose between loyalty and truth.",
+      "question": "Can loyalty exist without honesty?",
+      "tagalog": "Maaari bang magkaroon ng katapatan nang walang honesty?",
+      "inspirational": "Strong relationships and strong character both need honesty.",
+      "mensahe": "Parehong nangangailangan ng katapatan ang matibay na relasyon at matatag na pagkatao."
+    },
+    {
+      "situation": "You know your decision will be unpopular.",
+      "question": "Would that change your understanding of what is right?",
+      "tagalog": "Babaguhin ba nito ang iyong pananaw sa kung ano ang tama?",
+      "inspirational": "Being unpopular does not automatically make a decision wrong.",
+      "mensahe": "Hindi awtomatikong nagiging mali ang isang desisyon dahil hindi ito popular."
+    },
+    {
+      "situation": "You discover that you benefited from an unfair system without realizing it.",
+      "question": "Would you acknowledge the unfairness and consider what you can do?",
+      "tagalog": "Aaminin mo ba ang kawalan ng patas at pag-iisipan kung ano ang maaari mong gawin?",
+      "inspirational": "Awareness can become the beginning of responsible action.",
+      "mensahe": "Maaaring maging simula ng responsableng pagkilos ang kamalayan."
+    },
+    {
+      "situation": "You must choose whether to speak up when someone is being treated unfairly.",
+      "question": "Would fear stop you from speaking?",
+      "tagalog": "Pipigilan ka ba ng takot na magsalita?",
+      "inspirational": "Courage does not mean having no fear; it means thinking about what to do despite it.",
+      "mensahe": "Hindi nangangahulugang walang takot ang tapang; nangangahulugan itong pag-iisip kung ano ang dapat gawin sa kabila nito."
+    },
+    {
+      "situation": "A person you dislike does something deserving of praise.",
+      "question": "Would you acknowledge their good action?",
+      "tagalog": "Kinikilala mo ba ang kanilang mabuting ginawa?",
+      "inspirational": "Fairness means recognizing good actions even when they come from someone we dislike.",
+      "mensahe": "Ang pagiging patas ay pagkilala sa mabuting kilos kahit mula ito sa taong hindi natin gusto."
+    },
+    {
+      "situation": "A person you like does something clearly wrong.",
+      "question": "Would your feelings affect your judgment?",
+      "tagalog": "Maaapektuhan ba ng iyong damdamin ang iyong paghatol?",
+      "inspirational": "Strong values help us remain fair even when emotions are involved.",
+      "mensahe": "Tinutulungan tayo ng matibay na pagpapahalaga na maging patas kahit may emosyon."
+    },
+    {
+      "situation": "You can avoid responsibility by saying that everyone else was responsible too.",
+      "question": "Would you still accept your own responsibility?",
+      "tagalog": "Aakuin mo pa rin ba ang sarili mong responsibilidad?",
+      "inspirational": "Shared responsibility does not erase individual accountability.",
+      "mensahe": "Hindi inaalis ng shared responsibility ang personal na pananagutan."
+    },
+    {
+      "situation": "You make an ethical decision that nobody understands.",
+      "question": "Would you explain your reasoning respectfully?",
+      "tagalog": "Ipaliwanag mo ba nang maayos ang iyong dahilan?",
+      "inspirational": "Explaining our reasoning can help others understand the values behind our choices.",
+      "mensahe": "Ang pagpapaliwanag ng ating dahilan ay maaaring makatulong upang maunawaan ng iba ang values sa likod ng ating mga pagpili."
+    },
+    {
+      "situation": "You realize your first moral judgment was based on incomplete information.",
+      "question": "Would you change your opinion?",
+      "tagalog": "Babaguhin mo ba ang iyong opinyon?",
+      "inspirational": "Changing your mind after learning more is a sign of reflection, not failure.",
+      "mensahe": "Ang pagbabago ng isip matapos matuto ng higit pa ay tanda ng pagninilay, hindi kabiguan."
+    },
+    {
+      "situation": "You are asked to follow an instruction that you believe could seriously harm someone.",
+      "question": "Would you question the instruction?",
+      "tagalog": "Kuwekuwestiyunin mo ba ang utos?",
+      "inspirational": "Responsibility includes thinking critically about the consequences of our actions.",
+      "mensahe": "Kasama sa responsibilidad ang kritikal na pag-iisip tungkol sa kahihinatnan ng ating mga kilos."
+    },
+    {
+      "situation": "You can remain comfortable by ignoring a moral problem.",
+      "question": "Would comfort be enough reason to remain silent?",
+      "tagalog": "Sapat bang dahilan ang kaginhawaan upang manahimik?",
+      "inspirational": "A clear conscience sometimes requires us to face uncomfortable truths.",
+      "mensahe": "Minsan kailangan nating harapin ang hindi komportableng katotohanan upang magkaroon ng malinis na konsensya."
+    },
+    {
+      "situation": "You have to choose between protecting your reputation and protecting another person's dignity.",
+      "question": "What would guide your decision?",
+      "tagalog": "Ano ang gagabay sa iyong desisyon?",
+      "inspirational": "Ethical choices become clearer when we consider the dignity of everyone involved.",
+      "mensahe": "Mas nagiging malinaw ang etikal na pagpili kapag isinasaalang-alang ang dignidad ng lahat ng sangkot."
+    },
+    {
+      "situation": "Your personal beliefs differ from the beliefs of your community.",
+      "question": "Would you respectfully maintain your own principles?",
+      "tagalog": "Paninindigan mo ba nang may respeto ang sarili mong prinsipyo?",
+      "inspirational": "Moral independence and respect can exist together.",
+      "mensahe": "Maaaring magsama ang moral independence at respeto."
+    },
+    {
+      "situation": "You discover that a friend has a completely different moral perspective from yours.",
+      "question": "Would you listen before judging them?",
+      "tagalog": "Makikinig ka ba bago sila husgahan?",
+      "inspirational": "Understanding different perspectives can deepen ethical thinking.",
+      "mensahe": "Ang pag-unawa sa iba't ibang pananaw ay maaaring magpalalim ng ethical thinking."
+    },
+    {
+      "situation": "You are unsure whether an action is right or wrong.",
+      "question": "Would you seek more information before deciding?",
+      "tagalog": "Hahanap ka ba ng karagdagang impormasyon bago magdesisyon?",
+      "inspirational": "Good judgment begins with a willingness to learn.",
+      "mensahe": "Nagsisimula ang mabuting paghatol sa kahandaang matuto."
+    },
+    {
+      "situation": "You realize that doing nothing will allow an unfair situation to continue.",
+      "question": "Is inaction also a moral choice?",
+      "tagalog": "Ang hindi pagkilos ba ay isa ring moral na pagpili?",
+      "inspirational": "Sometimes what we choose not to do can also affect others.",
+      "mensahe": "Minsan ang mga bagay na pinipili nating hindi gawin ay nakaaapekto rin sa iba."
+    },
+    {
+      "situation": "You have the power to influence someone's decision.",
+      "question": "Would you use that influence responsibly?",
+      "tagalog": "Gagamitin mo ba nang responsable ang iyong impluwensya?",
+      "inspirational": "Influence becomes ethical when it respects another person's freedom to choose.",
+      "mensahe": "Nagiging etikal ang impluwensya kapag iginagalang nito ang kalayaan ng iba na pumili."
+    },
+    {
+      "situation": "You know that your choice will have consequences for people you do not know.",
+      "question": "Would you consider them when deciding?",
+      "tagalog": "Isasaalang-alang mo ba sila sa iyong desisyon?",
+      "inspirational": "Ethical awareness extends beyond the people we can see.",
+      "mensahe": "Ang ethical awareness ay umaabot lampas sa mga taong nakikita natin."
+    },
+    {
+      "situation": "You are tempted to justify your behavior because someone else behaved worse.",
+      "question": "Does another person's wrongdoing make yours acceptable?",
+      "tagalog": "Ginagawa bang tama ng mas malaking pagkakamali ng iba ang iyong ginawa?",
+      "inspirational": "We remain responsible for our own choices.",
+      "mensahe": "Pananagutan pa rin natin ang sarili nating mga pagpili."
+    },
+    {
+      "situation": "You make a choice that produces a good result for the wrong reasons.",
+      "question": "Does the good outcome make the decision ethical?",
+      "tagalog": "Ginagawa bang etikal ng magandang resulta ang desisyon?",
+      "inspirational": "Ethical reflection considers motives, actions, and consequences.",
+      "mensahe": "Isinasaalang-alang ng ethical reflection ang motibo, kilos, at kahihinatnan."
+    },
+    {
+      "situation": "You do the right thing but receive no recognition.",
+      "question": "Would you still consider your choice worthwhile?",
+      "tagalog": "Ituturing mo pa rin bang mahalaga ang iyong pagpili?",
+      "inspirational": "The value of an ethical action does not depend entirely on applause.",
+      "mensahe": "Hindi lamang nakasalalay sa papuri ang halaga ng isang etikal na kilos."
+    },
+    {
+      "situation": "You are offered a shortcut that conflicts with your principles.",
+      "question": "Would you reject it even if others accept it?",
+      "tagalog": "Tatanggihan mo ba ito kahit tinatanggap ito ng iba?",
+      "inspirational": "Principles become meaningful when they guide difficult choices.",
+      "mensahe": "Nagiging makabuluhan ang prinsipyo kapag ginagabayan tayo nito sa mahirap na pagpili."
+    },
+    {
+      "situation": "You realize that your decision was ethical but still caused someone pain.",
+      "question": "Would you acknowledge their pain even if you believe your decision was right?",
+      "tagalog": "Kinikilala mo ba ang kanilang sakit kahit naniniwala kang tama ang iyong desisyon?",
+      "inspirational": "Being right does not require becoming insensitive.",
+      "mensahe": "Ang pagiging tama ay hindi nangangahulugang dapat maging manhid sa damdamin ng iba."
+    },
+    {
+      "situation": "You are asked whether the ends justify the means.",
+      "question": "Can a good outcome justify an unethical action?",
+      "tagalog": "Maaari bang bigyang-katwiran ng magandang resulta ang hindi etikal na paraan?",
+      "inspirational": "How we achieve something matters alongside what we achieve.",
+      "mensahe": "Mahalaga kung paano natin nakamit ang isang bagay, hindi lamang kung ano ang nakamit natin."
+    },
+    {
+      "situation": "You must choose between personal freedom and responsibility toward others.",
+      "question": "How would you balance both?",
+      "tagalog": "Paano mo babalansehin ang dalawa?",
+      "inspirational": "Freedom becomes meaningful when exercised with responsibility.",
+      "mensahe": "Nagiging makabuluhan ang kalayaan kapag ginagamit nang may pananagutan."
+    },
+    {
+      "situation": "Your conscience tells you to correct an unfair situation even though you are not directly affected.",
+      "question": "Would you get involved?",
+      "tagalog": "Makikialam ka ba?",
+      "inspirational": "Justice is not only about what happens to us; it is also about how we treat others.",
+      "mensahe": "Ang katarungan ay hindi lamang tungkol sa nangyayari sa atin kundi sa paraan ng pakikitungo natin sa iba."
+    },
+    {
+      "situation": "You are unsure whether your choice is motivated by fear or principle.",
+      "question": "Would you examine your true motivation before acting?",
+      "tagalog": "Susuriin mo ba ang tunay mong motibo bago kumilos?",
+      "inspirational": "Self-reflection helps separate principle from fear, pressure, and impulse.",
+      "mensahe": "Tinutulungan tayo ng self-reflection na paghiwalayin ang prinsipyo sa takot, pressure, at bugso ng damdamin."
+    },
+    {
+      "situation": "You must make an important ethical decision with no perfect answer.",
+      "question": "What values would guide you?",
+      "tagalog": "Anong mga pagpapahalaga ang gagabay sa iyo?",
+      "inspirational": "When there is no perfect answer, thoughtful values can guide a responsible choice.",
+      "mensahe": "Kapag walang perpektong sagot, maaaring gumabay ang maingat na pagpapahalaga sa responsableng pagpili."
+    }
+  ],
+  "JUSTICE": [
+    {
+      "situation": "Two students do very different amounts of work in a group project.",
+      "question": "Should they receive exactly the same grade?",
+      "tagalog": "Dapat ba silang makatanggap ng parehong grado?",
+      "inspirational": "Fairness sometimes means considering contribution, not simply treating everyone identically.",
+      "mensahe": "Minsan ang pagiging patas ay pagsasaalang-alang sa ambag, hindi lamang pagbibigay ng eksaktong parehong trato."
+    },
+    {
+      "situation": "A student is excluded from a group because classmates do not like them.",
+      "question": "Is personal dislike enough reason to exclude someone?",
+      "tagalog": "Sapat bang dahilan ang personal na pagkadismaya upang ibukod ang isang tao?",
+      "inspirational": "Fairness asks us to separate personal feelings from another person's right to participate.",
+      "mensahe": "Hinihingi ng fairness na ihiwalay ang personal na damdamin sa karapatan ng iba na makilahok."
+    },
+    {
+      "situation": "Your friend breaks a rule, while another student receives punishment for the same behavior.",
+      "question": "Should your friend receive the same consequences?",
+      "tagalog": "Dapat ba silang makatanggap ng parehong kahihinatnan?",
+      "inspirational": "Fairness should not depend entirely on who we know.",
+      "mensahe": "Hindi dapat nakadepende sa kung sino ang kakilala natin ang pagiging patas."
+    },
+    {
+      "situation": "A wealthy student and a poor student receive the same punishment for the same action.",
+      "question": "Is equal punishment always fair?",
+      "tagalog": "Palagi bang patas ang parehong parusa?",
+      "inspirational": "Justice can involve considering circumstances while maintaining consistent principles.",
+      "mensahe": "Maaaring isaalang-alang ng katarungan ang sitwasyon habang pinananatili ang mga prinsipyo."
+    },
+    {
+      "situation": "A student with a disability needs additional time for an exam.",
+      "question": "Is giving additional support unfair to other students?",
+      "tagalog": "Hindi ba patas sa ibang estudyante ang pagbibigay ng karagdagang suporta?",
+      "inspirational": "Fairness can mean providing what people need to participate meaningfully.",
+      "mensahe": "Maaaring mangahulugan ang fairness ng pagbibigay ng kinakailangan upang makalahok nang maayos ang bawat isa."
+    },
+    {
+      "situation": "A teacher gives an opportunity only to students who already perform well.",
+      "question": "Should struggling students also have a chance?",
+      "tagalog": "Dapat din bang bigyan ng pagkakataon ang mga nahihirapang estudyante?",
+      "inspirational": "Fair opportunities can help people develop rather than reward only those who are already successful.",
+      "mensahe": "Ang patas na oportunidad ay maaaring makatulong sa pag-unlad, hindi lamang gantimpalaan ang mga matagumpay na."
+    },
+    {
+      "situation": "Your close friend is responsible for a mistake that affected the whole class.",
+      "question": "Should friendship affect how you judge the situation?",
+      "tagalog": "Dapat bang makaapekto ang pagkakaibigan sa iyong paghatol?",
+      "inspirational": "Justice asks us to apply principles consistently.",
+      "mensahe": "Hinihingi ng katarungan ang pare-parehong paggamit ng prinsipyo."
+    },
+    {
+      "situation": "Someone is being bullied because they are different from the group.",
+      "question": "Should you intervene even if you are not involved?",
+      "tagalog": "Makikialam ka ba kahit hindi ka sangkot?",
+      "inspirational": "Respect for human dignity does not depend on popularity or similarity.",
+      "mensahe": "Ang dignidad ng tao ay hindi nakadepende sa kasikatan o pagkakatulad."
+    },
+    {
+      "situation": "A group chooses its members based on popularity rather than ability or interest.",
+      "question": "Is this fair?",
+      "tagalog": "Patas ba ito?",
+      "inspirational": "Fair participation means giving people a reasonable opportunity to contribute.",
+      "mensahe": "Ang patas na pakikilahok ay pagbibigay sa mga tao ng makatuwirang pagkakataong makapag-ambag."
+    },
+    {
+      "situation": "You witness someone being treated differently because of their background.",
+      "question": "Would you speak up?",
+      "tagalog": "Magsasalita ka ba?",
+      "inspirational": "Justice begins with recognizing unfair treatment.",
+      "mensahe": "Nagsisimula ang katarungan sa pagkilala sa hindi patas na pagtrato."
+    },
+    {
+      "situation": "Your teacher asks everyone to receive the same grade even though contributions were unequal.",
+      "question": "Is equal treatment always the fairest solution?",
+      "tagalog": "Ang parehong trato ba ay palaging pinakapatas na solusyon?",
+      "inspirational": "Equality and fairness can require careful consideration of circumstances.",
+      "mensahe": "Maaaring mangailangan ng maingat na pagsasaalang-alang sa sitwasyon ang equality at fairness."
+    },
+    {
+      "situation": "Someone makes a serious mistake but has never made trouble before.",
+      "question": "Should their good record affect the consequences?",
+      "tagalog": "Dapat bang makaapekto ang magandang record nila sa kahihinatnan?",
+      "inspirational": "Justice can consider context while still recognizing responsibility.",
+      "mensahe": "Maaaring isaalang-alang ng katarungan ang konteksto habang kinikilala ang pananagutan."
+    },
+    {
+      "situation": "A student repeatedly breaks rules but receives only warnings because they are popular.",
+      "question": "Is popularity a fair reason for different treatment?",
+      "tagalog": "Makatarungan bang iba ang trato dahil sikat ang isang tao?",
+      "inspirational": "Fairness should not be determined by popularity.",
+      "mensahe": "Hindi dapat popularity ang batayan ng fairness."
+    },
+    {
+      "situation": "A student cannot afford expensive materials required for a project.",
+      "question": "Should they be judged the same way as students with more resources?",
+      "tagalog": "Dapat ba silang hatulan nang pareho sa mga estudyanteng mas maraming resources?",
+      "inspirational": "Fairness considers whether everyone has a realistic opportunity to meet the same expectations.",
+      "mensahe": "Isinasaalang-alang ng fairness kung may tunay na pagkakataon ang lahat na matugunan ang parehong expectations."
+    },
+    {
+      "situation": "Your group has one limited resource that only one member can use.",
+      "question": "How should you decide who gets it?",
+      "tagalog": "Paano ninyo pagpapasyahan kung sino ang gagamit nito?",
+      "inspirational": "Fair decisions should use clear and reasonable criteria.",
+      "mensahe": "Dapat gumamit ang patas na desisyon ng malinaw at makatuwirang batayan."
+    },
+    {
+      "situation": "Someone is accused of cheating based only on a rumor.",
+      "question": "Should they be punished immediately?",
+      "tagalog": "Dapat ba silang parusahan agad?",
+      "inspirational": "Justice requires evidence and an opportunity to be heard.",
+      "mensahe": "Nangangailangan ang katarungan ng ebidensya at pagkakataong marinig ang panig ng isang tao."
+    },
+    {
+      "situation": "A classmate is accused of something but cannot defend themselves.",
+      "question": "Should you hear their side before judging?",
+      "tagalog": "Dapat mo bang pakinggan ang kanilang panig bago humusga?",
+      "inspirational": "Fair judgment requires listening to more than one side.",
+      "mensahe": "Nangangailangan ang patas na paghatol ng pakikinig sa higit sa isang panig."
+    },
+    {
+      "situation": "A group leader gives their close friends easier tasks.",
+      "question": "Is this fair to everyone?",
+      "tagalog": "Patas ba ito sa lahat?",
+      "inspirational": "Leadership becomes fair when responsibilities are distributed transparently.",
+      "mensahe": "Nagiging patas ang leadership kapag malinaw at maayos ang pamamahagi ng responsibilidad."
+    },
+    {
+      "situation": "You notice that quieter students are rarely given opportunities to speak.",
+      "question": "Should you encourage them to participate?",
+      "tagalog": "Hihikayatin mo ba silang makilahok?",
+      "inspirational": "Fairness includes making room for voices that are often overlooked.",
+      "mensahe": "Kasama sa fairness ang pagbibigay ng puwang sa mga boses na madalas hindi napapansin."
+    },
+    {
+      "situation": "Two people make the same mistake, but only one is punished.",
+      "question": "Is that treatment fair?",
+      "tagalog": "Patas ba ang ganitong pagtrato?",
+      "inspirational": "Consistency helps build trust in rules and decisions.",
+      "mensahe": "Nakakatulong ang consistency upang magkaroon ng tiwala sa mga patakaran at desisyon."
+    },
+    {
+      "situation": "Someone receives an opportunity because they have a personal connection to the decision-maker.",
+      "question": "Is the opportunity fair?",
+      "tagalog": "Patas ba ang oportunidad?",
+      "inspirational": "Opportunities are more trustworthy when decisions are based on fair criteria.",
+      "mensahe": "Mas mapagkakatiwalaan ang oportunidad kapag nakabatay ang desisyon sa patas na criteria."
+    },
+    {
+      "situation": "A classmate is mocked because of their accent.",
+      "question": "Would you defend their right to be respected?",
+      "tagalog": "Ipagtatanggol mo ba ang kanilang karapatang igalang?",
+      "inspirational": "Differences in speech, culture, or background do not reduce human dignity.",
+      "mensahe": "Hindi binabawasan ng pagkakaiba sa pananalita, kultura, o background ang dignidad ng tao."
+    },
+    {
+      "situation": "A student is excluded because they are not considered \"cool.\"",
+      "question": "Is social status a fair basis for inclusion?",
+      "tagalog": "Makatarungan bang gawing batayan ang social status sa inclusion?",
+      "inspirational": "Belonging should not depend solely on popularity.",
+      "mensahe": "Hindi dapat nakadepende lamang sa kasikatan ang pagiging kabilang."
+    },
+    {
+      "situation": "A teacher has limited opportunities and must choose which students receive them.",
+      "question": "What criteria should be considered?",
+      "tagalog": "Anong criteria ang dapat isaalang-alang?",
+      "inspirational": "Fair decisions become stronger when their criteria are clear and reasonable.",
+      "mensahe": "Mas nagiging matibay ang patas na desisyon kapag malinaw at makatuwiran ang batayan."
+    },
+    {
+      "situation": "Your friend receives special treatment that other students do not receive.",
+      "question": "Would you question whether the treatment is fair?",
+      "tagalog": "Tatanungin mo ba kung patas ang ganitong trato?",
+      "inspirational": "Fairness sometimes requires us to question advantages we benefit from.",
+      "mensahe": "Minsan kailangan nating kuwestiyunin ang mga kalamangan na tayo mismo ang nakikinabang."
+    },
+    {
+      "situation": "A person who caused harm sincerely wants to make amends.",
+      "question": "Should they be given an opportunity to repair the harm?",
+      "tagalog": "Dapat ba silang bigyan ng pagkakataong itama ang pinsala?",
+      "inspirational": "Justice can include accountability and opportunities for repair.",
+      "mensahe": "Maaaring kasama sa katarungan ang pananagutan at pagkakataong itama ang pinsala."
+    },
+    {
+      "situation": "A group punishes everyone because one member broke a rule.",
+      "question": "Is collective punishment fair?",
+      "tagalog": "Patas ba ang collective punishment?",
+      "inspirational": "Fairness asks whether consequences are connected to individual responsibility.",
+      "mensahe": "Itinatanong ng fairness kung ang parusa ay naaayon sa personal na responsibilidad."
+    },
+    {
+      "situation": "A student cannot attend an important activity because of a family responsibility.",
+      "question": "Should the teacher consider the circumstances?",
+      "tagalog": "Dapat bang isaalang-alang ng guro ang sitwasyon?",
+      "inspirational": "Fairness can require understanding circumstances rather than judging only the outcome.",
+      "mensahe": "Maaaring mangailangan ang fairness ng pag-unawa sa sitwasyon sa halip na tingnan lamang ang resulta."
+    },
+    {
+      "situation": "Someone receives criticism because of a stereotype about their group.",
+      "question": "Should you challenge the assumption?",
+      "tagalog": "Dapat mo bang kuwestiyunin ang ganoong palagay?",
+      "inspirational": "Justice requires seeing people as individuals rather than stereotypes.",
+      "mensahe": "Nangangailangan ang katarungan na tingnan ang tao bilang indibidwal at hindi bilang stereotype."
+    },
+    {
+      "situation": "Your friend asks you to favor them during a group decision.",
+      "question": "Would you treat them differently from everyone else?",
+      "tagalog": "Iba ba ang magiging trato mo sa kanila kaysa sa iba?",
+      "inspirational": "Friendship should not require abandoning fairness.",
+      "mensahe": "Hindi dapat kailanganin ng pagkakaibigan ang pagsuko sa fairness."
+    },
+    {
+      "situation": "A student who usually performs poorly makes a major contribution.",
+      "question": "Would you recognize their contribution?",
+      "tagalog": "Kikilalanin mo ba ang kanilang ambag?",
+      "inspirational": "Fairness means recognizing effort and contribution without prejudice.",
+      "mensahe": "Ang fairness ay pagkilala sa pagsisikap at ambag nang walang prejudice."
+    },
+    {
+      "situation": "A student who normally performs well makes a mistake.",
+      "question": "Should their reputation protect them from accountability?",
+      "tagalog": "Dapat ba silang protektahan ng kanilang magandang reputasyon?",
+      "inspirational": "Accountability should not depend entirely on someone's reputation.",
+      "mensahe": "Hindi dapat nakasalalay lamang sa reputasyon ang pananagutan."
+    },
+    {
+      "situation": "A group has to decide who receives a limited scholarship opportunity.",
+      "question": "What would make the selection fair?",
+      "tagalog": "Ano ang magiging patas na batayan sa pagpili?",
+      "inspirational": "Fair selection requires transparent and relevant criteria.",
+      "mensahe": "Nangangailangan ang patas na pagpili ng malinaw at makabuluhang criteria."
+    },
+    {
+      "situation": "A person who was previously treated unfairly is now given power over others.",
+      "question": "Should they be expected to treat others differently from how they were treated?",
+      "tagalog": "Dapat ba silang matutong tratuhin nang mas patas ang iba kaysa sa naranasan nila?",
+      "inspirational": "Past injustice does not have to determine future behavior.",
+      "mensahe": "Hindi kailangang diktahan ng nakaraang kawalan ng katarungan ang hinaharap na kilos."
+    },
+    {
+      "situation": "Your group has to decide whether to give everyone the same reward or reward people according to effort.",
+      "question": "Which approach seems fairer to you, and why?",
+      "tagalog": "Aling paraan ang mas patas para sa iyo, at bakit?",
+      "inspirational": "Fairness can involve thoughtful discussion about equality and contribution.",
+      "mensahe": "Maaaring mangailangan ang fairness ng maingat na pag-uusap tungkol sa equality at ambag."
+    },
+    {
+      "situation": "Someone is denied participation because others assume they cannot contribute.",
+      "question": "Should they be given a chance to prove themselves?",
+      "tagalog": "Dapat ba silang bigyan ng pagkakataong patunayan ang kanilang kakayahan?",
+      "inspirational": "Fairness gives people reasonable opportunities rather than deciding their ability in advance.",
+      "mensahe": "Ang fairness ay nagbibigay ng makatuwirang pagkakataon sa halip na agad husgahan ang kakayahan."
+    },
+    {
+      "situation": "A class rule benefits most students but creates a serious problem for a small group.",
+      "question": "Should the rule be reconsidered?",
+      "tagalog": "Dapat bang muling suriin ang patakaran?",
+      "inspirational": "Fair systems should remain open to thoughtful review.",
+      "mensahe": "Dapat bukas sa maingat na pagsusuri ang patas na sistema."
+    },
+    {
+      "situation": "You see a classmate being treated unfairly but worry that speaking up will make you unpopular.",
+      "question": "Would you speak up?",
+      "tagalog": "Magsasalita ka ba?",
+      "inspirational": "Fairness can require courage when social pressure is strong.",
+      "mensahe": "Maaaring mangailangan ng tapang ang fairness kapag malakas ang social pressure."
+    },
+    {
+      "situation": "A person is judged for their past mistake even after changing.",
+      "question": "Should their past permanently define how they are treated?",
+      "tagalog": "Dapat bang permanenteng magtakda ang nakaraan kung paano sila tratuhin?",
+      "inspirational": "Justice can recognize both past accountability and present change.",
+      "mensahe": "Maaaring kilalanin ng katarungan ang pananagutan sa nakaraan at pagbabago sa kasalukuyan."
+    },
+    {
+      "situation": "Someone gets a benefit because they know the right person.",
+      "question": "Is personal connection a fair basis for opportunity?",
+      "tagalog": "Patas bang gawing batayan ng oportunidad ang personal na koneksyon?",
+      "inspirational": "Fair opportunities should be based on relevant and transparent reasons.",
+      "mensahe": "Dapat nakabatay ang patas na oportunidad sa makabuluhan at malinaw na dahilan."
+    },
+    {
+      "situation": "Your friend is wrongly accused and you know information that could help.",
+      "question": "Would you speak up?",
+      "tagalog": "Magsasalita ka ba?",
+      "inspirational": "Justice benefits when people are willing to provide relevant truth.",
+      "mensahe": "Nakikinabang ang katarungan kapag handang magsabi ng mahalagang katotohanan ang mga tao."
+    },
+    {
+      "situation": "You are asked to choose between helping a friend and helping someone who has a greater need.",
+      "question": "Should friendship determine who receives help?",
+      "tagalog": "Dapat bang friendship ang magtakda kung sino ang tutulungan?",
+      "inspirational": "Fairness asks us to consider need, not only personal connection.",
+      "mensahe": "Hinihingi ng fairness na isaalang-alang ang pangangailangan, hindi lamang personal na koneksyon."
+    },
+    {
+      "situation": "A student is punished more severely because they are unpopular.",
+      "question": "Is this fair?",
+      "tagalog": "Patas ba ito?",
+      "inspirational": "Justice requires consistent standards regardless of popularity.",
+      "mensahe": "Nangangailangan ang justice ng pare-parehong standards anuman ang popularity."
+    },
+    {
+      "situation": "A student receives an opportunity because they have demonstrated exceptional effort.",
+      "question": "Is giving them the opportunity unfair to others?",
+      "tagalog": "Hindi ba patas sa iba ang pagbibigay sa kanila ng oportunidad?",
+      "inspirational": "Fairness can recognize meaningful effort when the criteria are clear.",
+      "mensahe": "Maaaring kilalanin ng fairness ang makabuluhang pagsisikap kapag malinaw ang batayan."
+    },
+    {
+      "situation": "You notice that some students are always chosen first while others are never considered.",
+      "question": "Would you suggest a fairer selection process?",
+      "tagalog": "Magmumungkahi ka ba ng mas patas na proseso ng pagpili?",
+      "inspirational": "Fair systems should create reasonable opportunities for everyone.",
+      "mensahe": "Dapat lumikha ang patas na sistema ng makatuwirang oportunidad para sa lahat."
+    },
+    {
+      "situation": "Someone is excluded because of a stereotype about their abilities.",
+      "question": "Would you challenge the stereotype?",
+      "tagalog": "Hahamunin mo ba ang stereotype?",
+      "inspirational": "Fairness begins when we question assumptions that limit people.",
+      "mensahe": "Nagsisimula ang fairness kapag kinukuwestiyon natin ang mga palagay na naglilimita sa iba."
+    },
+    {
+      "situation": "You realize that your own group has treated another group unfairly.",
+      "question": "Would you acknowledge it?",
+      "tagalog": "Aaminin mo ba ito?",
+      "inspirational": "Justice requires honesty even when the truth reflects poorly on our own group.",
+      "mensahe": "Nangangailangan ang justice ng katapatan kahit hindi maganda ang ipinapakita ng katotohanan tungkol sa ating grupo."
+    },
+    {
+      "situation": "A rule was created long ago but no longer seems fair to everyone.",
+      "question": "Should old rules always remain unchanged?",
+      "tagalog": "Dapat bang manatiling pareho ang mga lumang patakaran?",
+      "inspirational": "Fairness can require reviewing rules as circumstances change.",
+      "mensahe": "Maaaring mangailangan ang fairness ng pagsusuri sa mga patakaran habang nagbabago ang sitwasyon."
+    },
+    {
+      "situation": "Someone receives more support because they need it more.",
+      "question": "Is unequal support necessarily unfair?",
+      "tagalog": "Ang hindi pantay na suporta ba ay awtomatikong hindi patas?",
+      "inspirational": "Treating people fairly does not always mean giving everyone exactly the same thing.",
+      "mensahe": "Ang patas na pagtrato ay hindi laging nangangahulugang eksaktong pareho ang ibinibigay sa lahat."
+    },
+    {
+      "situation": "You have to decide what fairness means in a difficult situation.",
+      "question": "Would you consider equality, need, effort, and consequences before deciding?",
+      "tagalog": "Isasaalang-alang mo ba ang equality, pangangailangan, effort, at consequences bago magdesisyon?",
+      "inspirational": "Justice becomes stronger when decisions consider more than one perspective.",
+      "mensahe": "Mas nagiging matibay ang justice kapag higit sa isang pananaw ang isinasaalang-alang."
+    }
+  ]
+}
